@@ -5,6 +5,7 @@
 FinSight‑AI is an advanced **Python‑based financial analysis toolkit** that combines **AI‑driven sentiment analysis**, **fundamental data evaluation**, and **analyst recommendation trends** to generate **clear buy/hold/sell investment signals**.  
 
 Built for **traders, investors, and quantitative analysts**, it leverages **real‑time market news**, **key financial ratios**, and **analyst sentiment** to deliver actionable market intelligence.  
+This codebase has been **reviewed and optimized with AI assistance** to ensure **clarity, maintainability, and complete transparency** — making it easier for anyone to understand, modify, and extend.  
 
 ---
 
@@ -70,8 +71,8 @@ pip install -r requirements.txt
 ```bash
 python finsight_ai.py
 ```
-5. Results will be saved as:
-   - `analyse_ergebnis_<symbol>_<enddate>.txt`
+5. Results will be saved as:  
+   - `analyse_ergebnis_<symbol>_<enddate>.txt`  
    - `gesamtanalyse_<enddate>.xlsx`
 
 ---
@@ -104,5 +105,3 @@ This project is licensed under the MIT License.
 Pull requests are welcome — open an issue first to discuss potential changes.  
 
 ---
-
-Do you want me to now **add badges and a visual architecture diagram** so your README looks like a top‑tier GitHub project? That would make this pop visually.
