@@ -1,0 +1,955 @@
+🔎 Analysis for MSFT from 2025-07-19 to 2025-08-19
+
+📰 Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds
+📝 WASHINGTON (Reuters) -Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.  The six-day poll, which concluded on Monday, showed 71% of respondents said they were concerned that AI will be "putting too many people out of work permanently."  The new technology burst into the national conversation in late 2022 when OpenAI's ChatGPT chatbot launched and became the fastest-growing application of all time, with tech heavyweights like Facebook owner Meta Platforms, Google owner Alphabet and Microsoft offering their own AI products.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 FNZ launches Advisor AI to redefine advisor productivity and scale personalized advice
+📝 FNZ, the global wealth management platform, has today announced the global launch of FNZ Advisor AI, a generative AI solution embedded directly into FNZ's market leading wealth management platform. The solution will help financial advisors enhance productivity, deliver more personalized advice and serve more clients at scale.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jefferies’ top stock picks: From Big Tech to semis, these are consistent winners
+📝 Investing.com -- Wall Street research firm Jefferies has put together a shortlist of U.S. companies that not only deliver earnings beats but also enjoy upbeat analyst sentiment and positive revisions following results. The research filters for companies with market caps over $10 billion, four straight quarters of EPS beats, and positive commentary. These firms are also seeing upward estimate revisions shortly after results—an important sign that earnings momentum may have legs. Here are the key
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Cloud ERP Company Evaluation Report 2025 | SAP, Oracle, and Microsoft Lead with AI-Driven Solutions, Hybrid Strategies, and Deep Business Integration
+📝 The Cloud ERP Market Companies Quadrant provides an in-depth analysis of the global cloud ERP market, highlighting top players, technological advancements, and emerging trends. Reviewed by 360 Quadrants, 23 leading companies including SAP, Oracle, and Microsoft were recognized. Cloud ERP, delivering enterprise resource planning over the internet, offers flexibility, scalability, and cost-efficiency, benefiting SMEs through real-time access and integration with AI and IoT. As the market grows, co
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 The Best Stocks to Invest $1,000 in Right Now
+📝 There are still some good deals available for long-term investors.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 CoreWeave Q2: Mispriced... But A Breakout Is Coming
+📝 CoreWeave, Inc.'s rapid 206% YoY growth and GPU-focused cloud model offer long-term potential despite post-IPO volatility. Click for more on CRWV earnings.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 I Just Dropped $20K In These 3 Stocks
+📝 Explore 2025's market highs driven by tech and earnings.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 This Formerly High-Flying Cryptocurrency Has the Potential to Become the New Bitcoin, According to Tom Lee of Fundstrat
+📝 Tom Lee of Fundstrat sees Ethereum as a cryptocurrency with Bitcoin-style potential.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Macquarie Large Cap Growth Fund Q2 2025 Commentary
+📝 For 2Q25, Macquarie Large Cap Growth Fund Institutional Class shares posted absolute positive returns but underperformed the Fundâs benchmark, the Russell 1000 Growth Index.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Prediction: This Unstoppable Stock Will Join Nvidia, Microsoft, Apple, Amazon, and Alphabet in the $2 Trillion Club by 2028
+📝 Semiconductors underpin the artificial intelligence (AI) revolution, and this company is already ringing the cash register.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Navatar Unveils AI-Powered CRM That Meets M&A Advisors Where They Work From Outlook to Slack to CRM: Investment Banking’s First Truly Embedded Intelligence Platform For Salesforce
+📝 Leveraging Salesforce’s Agentforce and Microsoft Copilot, Navatar Automates Data Entry and Turns Activity into AI-Driven IntelligenceLONDON and NEW YORK, Aug. 19, 2025 (GLOBE NEWSWIRE) -- Navatar, the leading platform for private markets, today announced the launch of its next-generation, fully AI-powered CRM purpose-built for M&A advisory firms. The new platform combines intelligence, automation, and usability—solving one of the biggest challenges firms face when trying to put AI to work: data.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Columbia Large Cap Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedle Investments reports Q2 results for its Large Cap Growth Fund, highlighting AI-driven gains and sector rotation. Explore key holdings and outlook.
+
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 OpenAI rolls out cheapest ChatGPT plan at $4.6 in India to chase growth
+📝 ChatGPT maker OpenAI on Tuesday launched ChatGPT Go, a new India-only subscription plan priced at 399 rupees ($4.57) per month, its most affordable offering yet, as the company looks to deepen its presence in its second-largest market. Global companies often offer cheaper subscription plans for India's price-sensitive market, targeting the nearly one billion internet users in the world's most populous nation. The plan allows users to send up to ten times more messages and generate ten times more images compared to the free version, while also offering faster response times.
+📊 Sentiment: 0.50
+--------------------------------------------------
+📰 Legendary fund manager Stanley Druckenmiller buys $133 million of under-radar AI stock
+📝 The legendary Stanley Druckenmiller's Q2 13F filing reveals a major pivot toward AI, tech, and the S&P 500.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Hack at Allianz Life impacts 1.1 million customers, breach notification site says
+📝 Allianz Life had previously said that hackers stole personal information of most of its 1.4 million U.S. customers, financial professionals and select employees.  An Allianz Life spokesperson declined to comment at the moment, as the company's investigation is ongoing.  A cyberattack on UnitedHealth's technology division last year — the largest healthcare data breach in U.S. history — affected 192.7 million people.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AccountabilIT Joins the Microsoft Intelligent Security Association
+📝 Accountabilit (AIT) today announced it has become a member of the Microsoft Intelligent Security Association (MISA), an ecosystem of Software development companies and services partners that have integrated their security solutions with Microsoft's security technology to better defend against a world of increasingly sophisticated, fast-moving threats.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Tracking Al Gore's Generation Investment Management Portfolio - Q2 2025 Update
+📝 Generation IMâs Q2 2025 portfolio value declined to $15.73B, with 37 positions. Click here to read more about the portfolio's new stakes and increases.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Big Tech's AI Hiring Spree Is Shaking Up Silicon Valley
+📝 The fight for AI dominance isn't just about chips and models anymore it's changing the very DNA of how Big Tech hires.
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Bill Gates Predicted In 2023 That GPT-5 Wouldn't Be 'Significantly Better' Than It Predecessor — Was He Right?
+📝 Bill Gates predicted in 2023 that OpenAI's next flagship model wouldn't be "significantly better than GPT-4" and it now appears that his estimate was a lot more accurate than techies gave him credit for. Bill Gates’ GPT-5 Prediction Proves ...
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise
+📝 (Reuters) -Palo Alto Networks (PANW) forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Sam Altman Says There’s an AI Bubble. What Wall Street Thinks.
+📝 OpenAI CEO Sam Altman told reporters that he thinks the AI market is in a bubble. Not everyone is concerned.
+📊 Sentiment: 0.20
+--------------------------------------------------
+📰 Columbia Global Technology Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedle reports a standout quarter for its Global Tech Growth Fund, fueled by AI-driven gains. Explore how innovation is powering performance.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Bank of America suggests the era of the biggest stocks dominating markets 'may be done'
+📝 After years of large-cap outperformance, Bank of America believes the stock market may be ripe for a regime shift.
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 Sector Update: Tech Stocks Rise Late Afternoon
+📝 Tech stocks advanced late Monday afternoon, with the Technology Select Sector SPDR Fund (XLK) up 0.1
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Columbia Emerging Markets Fund Q2 2025 Commentary
+📝 Columbia Threadneedle Investments reports 12.86% Q2 gains for its Emerging Markets Fund, led by tech and AI tailwinds. See how global shifts are shaping returns.
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 Market Chatter: Microsoft-Backed OpenAI's CEO Sam Altman Says AI Market in a Bubble
+📝 Microsoft-backed (MSFT) OpenAI's CEO Sam Altman said he believes the artificial intelligence market
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Columbia Dividend Income Fund Q2 2025 Commentary
+📝 Columbia Threadneedle Investments reports Q2 underperformance for its Dividend Income Fund amid tech and healthcare headwinds. See how quality stocks remain central.
+
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 Hartford Large Cap Growth ETF Q2 2025 Commentary
+📝 The Hartford Large Cap Growth ETF outperformed the Russell 1000 Growth Index during the quarter. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Nvidia Is 8% Of The S&P 500 Index - History Shows Beast Mode May End
+📝 Nvidia Corporation's high valuation faces challenges from rising competition and market risks. Click for why continued NVDA dominance and growth may face hurdles.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft's Azure Boom Lifts Cloud Revenues: More Upside Ahead?
+📝 MSFT's cloud revenues hit $46.7B in Q4 as Azure rose 39%, with annual revenues topping $75B for the first time.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 How Much Is AI Worth to Stocks? Try $16 Trillion.
+📝 Expectations for eventual returns on the vast amounts of money companies are pouring into artificial intelligence are now driving most of the gains in the stock market.  Research from  Morgan Stanley  analyst Stephen Byrd highlights why that might make sense.  “Our analysis suggests  companies could accrue annual net benefits totaling some $920 billion,” Byrd wrote in a Sunday report looking at how AI could affect job automation and “augmentation,” as well as at average wages.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 IBM Gains 23% in a Year: Should You Bet on the Stock Now?
+📝 IBM's 23% rally rides on hybrid cloud and AI momentum, with watsonx and NVIDIA partnerships fueling growth prospects.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Australia's Top Healthcare IT Vendors Named by Black Book Research in 2025 Annual User Rankings
+📝 Live results announced today in Melbourne at HIC 2025, Australia's largest digital health and health informatics industry gathering MELBOURNE, AU / ACCESS Newswire / August 18, 2025 / Black Book Research today announced the 2025 top-rated healthcare ...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft Likely to Maintain Strong Momentum in Cloud, AI Growth, Truist Says
+📝 Microsoft (MSFT) is likely to maintain strong momentum in its cloud and artificial intelligence busi
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Oracle Selects GPT-5 To Embed AI In SaaS Applications
+📝 Oracle (NYSE:ORCL) deployed OpenAI’s GPT-5 across its database portfolio and SaaS applications, including Fusion Cloud, NetSuite, and Oracle Industry Apps such as Oracle Health, to embed advanced AI directly into business-critical workflows. By combining enterprise data with GPT-5’s coding, reasoning, and agentic capabilities, Oracle aims to accelerate automation, improve accuracy, and unlock deeper customer insights. GPT-5, designed to excel at code generation, debugging, and complex reasoning,
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Wall Street’s Strong Gains Will Be Tested Before Labor Day
+📝 It has surged more than 30% from its early April lows as President Donald Trump has backed away from some of the most burdensome tariffs laid out in his so-called Liberation Day announcement.  Bets on looser monetary policy from the Federal Reserve have provided the third leg to the bull-market stool.  Federal Reserve Chair Jerome Powell will deliver the keynote address to the central bank’s annual symposium in Jackson Hole, Wyo., on Friday.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2 Factors That Could Trigger a Stock Market Selloff
+📝 2 Factors That Could Trigger a Stock Market Selloff
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft stock target lifted at Truist on cloud and AI growth drivers
+📝 Investing.com -- Truist lifted its price target for Microsoft (NASDAQ:MSFT) shares to $675 from $650 on Monday, citing the company’s sustained momentum in cloud and artificial intelligence.
+📊 Sentiment: 0.95
+--------------------------------------------------
+📰 MSNBC will become MS NOW, lose peacock logo before Comcast spinoff
+📝 (Reuters) -Cable news channel MSNBC will rebrand as My Source News Opinion World, or MS NOW, according to internal memos seen by Reuters on Monday, as parent Comcast presses ahead with the planned separation of many NBCUniversal cable networks later this year.  Comcast plans to spin off its cable channels, such as CNBC and USA Network, into a new company called Versant, signaling a significant shift in its media strategy as streaming takes precedence.  The cable networks and some other channels will also lose the iconic peacock logo associated with NBCUniversal, according to the memo from Versant CEO Mark Lazarus.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2.3 Million PC Gaming Handhelds Will Be Sold in 2025, According to Omdia
+📝 LONDON, August 18, 2025--New Omdia research reveals 2.3 million PC gaming handhelds, including the Steam Deck, will be sold globally in 2025. This will represent growth of 32% from 2024, when 1.7 million units were sold. Omdia forecasts 4.7 million PC handhelds will be sold annually by 2029.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 TrustedTech Unveils Bold Rebrand to Lead the Next Generation of AI and IT Modernization
+📝 IRVINE, Calif., August 18, 2025--TrustedTech rebrands in efforts to help customers cut through complexity, adopt intelligent tools like Microsoft Copilot, and more.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Marvell LiquidSecurity Selected for Microsoft Azure Cloud HSM
+📝 Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that Microsoft has selected the Marvell® LiquidSecurity® family of hardware security modules (HSMs) for Microsoft Azure Cloud HSM.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Here's Why Nvidia Outperforms Out to 2028
+📝 Nvidia's multilayered moat makes its dominance effectively unbreakable through 2028.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These AI Stocks Face 'Show Me' Moment: Palantir, CoreWeave, Nvidia, Snowflake
+📝 Amid hype over artificial intelligence, the best AI stocks generate revenue or get a strategic edge from the fast evolving technology.
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 The boss is back
+📝 No more Mr Nice Guy. Five years after the Covid pandemic forced employers to embrace empathy and flexibility, bosses are back to laying down...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 XTIUM Named a Visionary in the 2025 Gartner® Magic Quadrant™ for Desktop as a Service Report
+📝 NEW YORK, August 18, 2025--XTIUM Recognized for the Third Consecutive Year for Completeness of Vision and Ability to Execute
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Energy Products Earns a Spot on The Inc. 5000 List of Fastest Growing Private Companies in America for the Second Consecutive Year
+📝 Inc. has revealed that Energy Products has once again secured a spot on the annual Inc. 5000 list of the fastest-growing private companies in America, marking their second consecutive year receiving this prestigious honor. The Inc. 5000 provides a data driven look at the most successful companies within the economy's most dynamic segment of independent, entrepreneurial businesses. Microsoft, Facebook/Meta, Chobani, Under Armour, Timberland, Oracle, Patagonia, and many other name brands have gain
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Valeo Networks Expands to Ohio with Acquisition of SpliceNet Consulting
+📝 Valeo Networks, a leading A.I. enabled Managed Security Service Provider (MSSP), today announced its acquisition of SpliceNet Consulting, a prominent Managed Service Provider (MSP) based in Cincinnati, Ohio. The financial terms of the transaction have not been disclosed.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AI Isn't Eating These Software Stocks, Analyst Says
+📝 Investment bank Jefferies is pushing back on the belief that "AI is eating software." Microsoft stock and others will ride the AI wave, it said.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 AMD (AMD) Stock Poised for More AI Upside, Says Wall Street
+📝 Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Must-Watch AI Stocks on Wall Street. On August 13, Mizuho analyst Vijay Rakesh raised the price target on the stock to $205.00 (from $183.00) while maintaining an Outperform rating. The rating affirmation comes as Hyperscaler capex continues to tick higher, while China adds another tailwind. “We are […]
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Undercovered Dozen: BrightSpire Capital, Vertex Pharmaceuticals, Adobe And More
+📝 Discover 12 overlooked stocks & ETFs spanning gold, biotech, and tech.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Columbia Disciplined Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Growth Fund rose 16.38% in Q2 2025, driven by AI-led tech gains. See how stock selection shaped results and whatâs next for investors.
+
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Columbia Disciplined Core Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Disciplined Core Fund returned 9.54% in Q2 2025, led by AI-fueled tech picks. Discover how stock selection shaped performance.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Columbia Contrarian Core Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Contrarian Core Fund beat its benchmark in Q2 2025 amid AI-fueled tech gains. Explore what drove performance and whatâs next.
+
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Invesco Nasdaq 100 ETF: A Better Buy Than QQQ
+📝 QQQM combines low fees and tax efficiency with strong tech exposure, but carries concentration risks for short-term investors. Learn why QQQM ETF is a buy.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Columbia Balanced Fund Q2 2025 Commentary
+📝 Columbia Threadneedle reports strong Q2 gains for its Balanced Fund, beating benchmarks with tech-driven equity picks. See how your portfolio could benefit.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 AI Is Becoming The Economy
+📝 Is the AI revolution creating a market bubble? Explore trends in AI's economic impact, NVIDIA's profitability, and stock market valuations in today's...
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Macquarie Value Fund Q2 2025 Commentary
+📝 For the second quarter, Macquarie Value Fund Institutional Class shares trailed its benchmark, the Russell 1000Â® Value Index. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft Remains A Buy Near All-Time Highs
+📝 Microsoft's top-line growth is at multi-year highs, driven by exceptional performance in the Intelligent Cloud segment. Read why MSFT stock is a Buy.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Enterprise Software Extinction Via AI Exaggerated, Their Stocks Becoming Incredibly Cheap
+📝 Enterprise software is not facing extinction from generative AI. Click here to read more about how incumbents are adapting and leveraging AI themselves.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Harding Loevner International Small Companies Equity Q2 2025 Commentary
+📝 Harding Loevnerâs Q2 2025 report shows how small-cap firms are using AI to cut costs and stay competitive. Discover which stocks are leading the charge.
+
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Harding Loevner Global Small Companies Equity Q2 2025 Commentary
+📝 Harding Loevnerâs Q2 2025 report highlights how small-cap firms are using AI to drive innovation and resilience. See which stocks are leading the transformation.
+
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Coca-Cola, Amazon, Google, And Nvidia Have Used This Startup's AI Avatars — Inside Jeff Lu's $40M Rise To America's Fastest-Growing Company
+📝 In the same Palo Alto, California, building where Mark Zuckerberg grew Facebook in 2005, Jeff Lu now leads Akool, the generative AI platform that has created lifelike avatars for Coca-Cola (NYSE:KO), Amazon (NASDAQ:AMZN), Google, and Nvidia (NASDAQ:NVDA). The company ranks No. 1 on this year's Inc. 5000 list, Inc. reports. From Microsoft Intern to $40M AI Founder: How Jeff Lu Built One of America's Fastest-Growing Company Lu, 35, began his career as a Microsoft (NASDAQ:MSFT) intern before earnin
+📊 Sentiment: 0.60
+--------------------------------------------------
+📰 The Best Growth Stock ETF to Invest $100 in Right Now
+📝 This ETF has outperformed the S&P 500 handily over various multi-year periods.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Five Things Fed Chair Powell Might Address At Jackson Hole
+📝 Tariffs and inflation dominate markets, not Jackson Hole. Discover how these factors, along with labor trends, shape market volatility.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These 3 Artificial Intelligence (AI) Stocks Could Soar 45% or More Over the Next 12 Months, According to Wall Street
+📝 These AI stocks have been beaten down in 2025, but experts who follow them think they could bounce back.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Marvell Technology (MRVL) Stock Gains 10% as Microsoft AI Chip Potential Sparks Interest
+📝 Marvell Technology, Inc. (NASDAQ:MRVL) is one of the top stocks sold by hedge funds. On July 30, MRVL stock rose 10% following Fubon Research’s emphasis on the company’s strong revenue potential tied to Microsoft’s AI chip developments. Fubon Research says Microsoft has upgraded the Maia300 chip, which Marvell is working on, from 3nm with HBM3E […]
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Brazil’s Antitrust Watchdog Probes Microsoft (MSFT) following Opera’s Complaint
+📝 Microsoft Corporation (NASDAQ:MSFT) is one of the top stocks sold by hedge funds. Brazil’s antitrust agency CADE said on August 1 that it has started an investigation into Microsoft after Norwegian browser maker Opera Limited (NASDAQ:OPRA) raised concerns about Microsoft’s Edge. Opera claimed in its complaint that Microsoft sets Edge as the default browser on […]
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Marvell Technology, Inc. (MRVL): A Bear Case Theory
+📝 We came across a bearish thesis on Marvell Technology, Inc. on Irrational Analysis’s Substack. In this article, we will summarize the bulls’ thesis on MRVL. Marvell Technology, Inc.’s share was trading at $77.34 as of August 8th. MRVL’s trailing and forward P/E were 22.15 and 27.40, respectively according to Yahoo Finance. Marvell is currently facing significant setbacks […]
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Amazon.com, Inc. (AMZN): A Bull Case Theory
+📝 We came across a bullish thesis on Amazon.com, Inc. on CosmicCapital’s Substack’s Substack by CosmicCapital. In this article, we will summarize the bulls’ thesis on AMZN. Amazon.com, Inc.’s share was trading at $223.13 as of August 7th. AMZN’s trailing and forward P/E were 34.01 and 34.36, respectively according to Yahoo Finance. Amazon delivered a strong 2Q25 result, […]
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Big Tech Is Eating Itself in Talent War
+📝 The scramble by tech companies for top AI talent is using unorthodox methods that imperil Silicon Valley’s startup culture.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Meta: Even Without Superintelligence, Company Is Already Winning The AI Race
+📝 Meta delivered another strong quarter, with AI investments already driving significant advertising growth across all regions. Read why META stock is a Buy.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft: Upside No Longer As Compelling
+📝 Microsoft has solid revenue growth and expanding margins. But click here to read why Hold seems to be the best option for MSFT stock.
+📊 Sentiment: 0.10
+--------------------------------------------------
+📰 2 Artificial Intelligence (AI) Stocks the U.S. Government Is Actively Backing in 2025
+📝 The U.S. government is investing heavily in AI technology, particularly in software.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 I'm Buying CoreWeave's Insatiable GPU Hunger (Double Upgrade)
+📝 CoreWeave's revenue growth accelerates with a $30B order backlog & capex ramp. Shares trade attractively, offering 25% upside.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Retail trading trends: Top names investors are buying
+📝 Retail traders, like their institutional counterparts, are feeling bullish as the market trades near record highs. Investopedia editor in chief Caleb Silver shares the findings of Investopedia's recent investor survey, including some of the top names retail investors are trading and where they should invest extra cash. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2 Soaring Tech Stocks to Buy and Hold for the Next Decade
+📝 These tech titans are experiencing accelerating growth in AI.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Alphabet, Meta, Amazon and Microsoft share this one thing — and it’ll keep the stocks fired up
+📝 To anyone still shouting “bubble”: Please sit down.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 After Gaining $394 Billion in Market Cap in 3 Days, Is Apple Stock on Its Way to Joining Nvidia and Microsoft in the $4 Trillion Club?
+📝 Apple is closing in on $3.5 trillion in market cap, but it could take time to reach $4 trillion.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Don't Make This Common Investing Mistake When Buying S&P 500 Stocks at All-Time Highs
+📝 With the S&P 500 near an all-time high, it's more important than ever to invest in quality companies.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Vulcan Value Partners Q2 2025 Letter
+📝 Vulcan Value Partners navigated Q2 volatility with disciplined repositioning into discounted, stable-value stocks. Explore their strategy and portfolio moves now.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft Dynamics 365 Finance and Operations License Optimisation Service Delivering Up to 50 Percent Cost Reduction While Strengthening Enterprise Securite
+📝 Brisbane-based DSS has launched an enhanced Microsoft Dynamics 365 Finance & Operations (F&O) License Optimisation Service, designed to reduce licensing costs by up to 50% while bolstering enterprise security. BRISBANE, AUSTRALIA / ACCESS Newswire ...
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined
+📝 Zuckerberg is not exactly the most popular guy.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Double the Disruption: The 3 Best Stocks to Buy Now to Profit From Both AI and Quantum Computing
+📝 Investors can have the best of both worlds with these AI and quantum computing stocks.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Our Top 10 High Growth Dividend Stocks - August 2025
+📝 We use our proprietary models to rate quantitatively and qualitatively and select the top ten names from an initial list of nearly 400 dividend stocks. Read this month's picks here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The old software investing playbook is dead. Here’s where to put your money now.
+📝 The old software investing playbook is dead. Here’s where to put your money now.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft (MSFT) Initiates Update for Arm-based (ARM) Windows 11 PCs
+📝 Microsoft Corporation (NASDAQ:MSFT) is one of the best stocks to invest in for beginners. Microsoft Corporation (NASDAQ:MSFT) reported in a blog post on August 13 that it is initiating the rollout of an update for Arm-based (ARM) Windows 11 PCs. The update introduces improvements and changes to the Xbox PC app experience, which is expanding […]
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 The Five Rules That Keep Me In The Game
+📝 Read here for 5 essential rules for successful long-term investing. Learn strategies for managing a diversified portfolio and mastering discipline for growth.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 5 Unstoppable "Ten Titans" Growth Stocks to Buy Now and Hold Through at Least 2030
+📝 These companies are playing a leading role in powering the S&P 500 to record highs.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Mastercard Inc Sees Significant Reduction in Jeff Auxier's Portfolio
+📝 Exploring the Strategic Moves of Auxier Asset Management in Q2 2025
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Can Microsoft Stock Hit $680 in 2025?
+📝 With Citi analysts raising their target to $680, could Microsoft be on track for a record-breaking 2025?
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Billionaire Philippe Laffont Is Betting Big on Oracle Stock. Should You?
+📝 Billionaire Philippe Laffont’s $843 million Oracle bet spotlights its AI cloud surge.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Dividend Champion, Contender, And Challenger Highlights: Week Of August 17
+📝 Read our weekly summary of companies that changed their dividends, companies with upcoming ex-dividend dates, and companies with upcoming pay dates. Access the full article here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The Cowboys Sold For $140 Million in 1989—They're Now Worth $12.8 Billion. Here's How That 9,000% Return Compares to Market Giants
+📝 The Dallas Cowboys sold for $140 million in February 1989, and are now worth $12.8 billion, per a new estimate. Here's a look at how that 9,000% return looks next to some of the biggest names on the market today, and at the time of the 1989 sale.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Billionaire Family Offices Join Berkshire’s UnitedHealth Bet
+📝 George Soros’ investment firm, the family office of a Swedish packaging dynasty and Michael Platt’s BlueCrest Capital Management all increased their stakes in UnitedHealth last quarter, according to 13F filings published Thursday.  The disclosed investments sent shares soaring and are a rare bright spot of late for UnitedHealth, which has largely struggled since one of its top executives was fatally shot in New York City in December.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Fortinet Boosts FortiRecon With CTEM to Strengthen Cyber Defenses
+📝 FTNT enhances FortiRecon with CTEM alignment, brand protection and AI-driven automation to tackle evolving cyber threats.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Alan Fournier's Strategic Moves: EchoStar Corp Sees a -3.89% Impact
+📝 Analyzing the Latest 13F Filing for Q2 2025
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Manning & Napier Group, LLC Significantly Increases Stake in UnitedHealth Group Inc
+📝 Exploring the Strategic Moves of Manning & Napier Group, LLC (Trades, Portfolio) in Q2 2025
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Mairs and Power's Strategic Moves: A Closer Look at Meta Platforms Inc.
+📝 Insights from the Second Quarter of 2025
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple CEO Tim Cook Says the Technology They’re Developing Will Be ‘One of the Most Profound Technologies of Our Lifetime’
+📝 Apple CEO Tim Cook highlights AI as transformative, unveiling Apple Intelligence features, emphasizing on-device processing, privacy, and expanded investments to integrate personalized generative AI across its ecosystem.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Robert Karr's Strategic Moves: Adobe Inc. Sees a Significant Reduction
+📝 Exploring the Latest 13F Filing and Portfolio Adjustments
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Bill Gates' Strategic Move: Significant Increase in Berkshire Hathaway Inc. Holdings
+📝 Exploring the Investment Strategies of a Renowned Business Magnate
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 A Nuclear Energy Stock Worth Watching
+📝 Constellation Energy is getting in on the AI boom.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jupiter Payments Celebrates Ranking No. 3338 on the 2025 Inc. 5000 List of America's Fastest-Growing Private Companies
+📝 Jupiter Payments is proud to announce that it has been ranked No. 3338 on the 2025 Inc. 5000 list, the most prestigious ranking of the fastest-growing private companies in America. This marks Jupiter Payments' second appearance on the list — achieved in just its second year of eligibility.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 For the 4th Time, HotelPlanner Makes the Inc. 5000 List of Fastest-Growing Private Companies
+📝 Three-Year Revenue Growth of 351%WEST PALM BEACH, Fla., Aug. 15, 2025 (GLOBE NEWSWIRE) -- Inc. revealed today that HotelPlanner ranks 1245 in the list of the top 5000 fastest-growing private companies. The prestigious ranking provides a data-driven look at the most successful companies within the economy’s most dynamic segment — the independent, entrepreneurial businesses. Facebook, Chobani, Microsoft, Patagonia, and many other household name brands gained their first national exposure as honore
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Dow scales record high on hopes of Fed rate cuts, trade deals
+📝 The Dow surpassed the previous peak of 45,073.63 touched on December 4, helped by a jump in UnitedHealth Group shares after Warren Buffett's Berkshire Hathaway revealed a new investment in the health insurer.  Counted among the oldest and most followed indexes, the Dow tracks the performance of 30 U.S.-listed large-cap stocks.  The Dow's gains have been propelled by a solid year-to-date performances from Wall Street bank Goldman Sachs, tech giant Microsoft and industrial equipment maker Caterpillar.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Automation Boom Fuels PATH's Performance in Growing RPA Market
+📝 UiPath's alliances with tech giants, rising revenues, and strong customer retention fuel its edge in the fast-growing automation market.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Best equal-weight index funds
+📝 Top equal-weight index funds to consider for your portfolio.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 S&P 500: Profit Margins Cannot Hold
+📝 Discover how tariff policies and extreme valuations are impacting S&P 500 sectors. Click for my strategy and analysis of various sectors in the current environment.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Cloud AI Update - Saudi Arabia's Cloud Market Poised For Rapid Growth
+📝 The Saudi Arabia Cloud Computing Market is poised for substantial growth, with a projected compound annual growth rate (CAGR) of 11.33% from 2025 to 2033, expected to reach US$ 38.23 billion by 2033. This expansion is driven by factors such as digital transformation, increased enterprise adoption of cloud services, and government initiatives under Vision 2030, which aim to modernize IT infrastructure and foster innovation. The market is also benefiting from the growth in smart city projects,...
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Mastering Options Greeks: The Key to Smarter Options Trades With Better Returns
+📝 Understanding how Delta, Theta, Gamma, Vega, and Rho impact your options trades with real examples.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Buy Big Tech Stock INTU On the Dip Now Before Earnings
+📝 Intuit's expanding portfolio and AI enhancements will help it keep posting double-digit sales and earnings growth. Plus, it looks like INTU is finding support at a critical technical range.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 HGF to Transform Their Data Estate with Microsoft Fabric and Power BI, Delivered by Simpson Associates
+📝 HGF to Transform Their Data Estate with Microsoft Fabric and Power BI, Delivered by Simpson Associates Smiling data professionals, shaking hands YORK, United Kingdom, Aug. 15, 2025 (GLOBE NEWSWIRE) -- Leading European Intellectual Property (IP) firm, HGF, has teamed up with Microsoft Solutions Partner and Partner of the Year, Simpson Associates, to modernise their data estate through a comprehensive Microsoft Fabric implementation as well as the development of Microsoft Power BI dashboards. This
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Poised for Explosive Growth: Is Your Portfolio Ready for This ETF?
+📝 Investing in the technology sector is a bold bet that today's largest companies will continue delivering outsized gains.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These Were the 5 Biggest Companies in 2019, and Here Are the 5 Biggest Companies Now
+📝 Tech stocks have dominated in recent years, with one stock rocketing 4,000% since 2019.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Update: Market Chatter: Microsoft Planning Mandatory Return-to-Office Policy
+📝 (Updates with Microsoft's response in the fourth paragraph.) Microsoft (MSFT) is planning to ann
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 Nvidia: The Lone $4T Market-Cap Stock Is Still A Cheap Growth Play
+📝 Nvidia Corporation dominates AI infrastructure with 92% GPU share & 26.8% projected revenue growth. Click for why NVDA is a top growth stock & future AI leader.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now
+📝 These stocks can still deliver monster returns as investment in AI infrastructure continues to grow.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 1 Unstoppable Stock That Could Join Nvidia, Microsoft, and Apple in the $3 Trillion Club by 2027
+📝 Amazon is making a habit of crushing Wall Street's expectations.
+📊 Sentiment: 0.50
+--------------------------------------------------
+📰 As Tech Stocks Rally, Risk Rises. Why Energy and Healthcare Could Be Options.
+📝 The weighting for tech in the S&P 500 continues to grow, even as tech capital spending for AI explodes. Energy and healthcare have been beaten down, but it looks as if their time is coming.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 BNY Mellon Global Real Return Fund Q2 2025 Commentary
+📝 BNY Mellon Global Real Return Fund produced positive returns for the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 BNY Mellon Global Stock Fund Q2 2025 Commentary
+📝 The BNY Mellon Global Stock Fund underperformed its benchmark, the MSCI World Index, for the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Hedge funds shift bets to double down on Big Tech amid AI boom
+📝 NEW YORK (Reuters) -Wall Street's largest hedge funds, Bridgewater Associates,  Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.  During the June quarter, hedge funds cut their exposure to laggards in industries like aerospace and defense, and consumer and retail, as part of a broader move back to momentum investing.  It marks a big shift from earlier this year when bets on Big Tech had soured for top money managers due to tariff-fueled volatility in financial markets, with investor concerns around rising inflation and fears of a bubble in AI triggering a sell-off in "Magnificent Seven" stocks.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Liberty All-Star® Growth Fund, Inc. July 2025 Monthly Update
+📝 BOSTON, August 14, 2025--Liberty All-Star® Growth Fund, Inc. July 2025 Monthly Update
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Liberty All-Star® Equity Fund July 2025 Monthly Update
+📝 BOSTON, August 14, 2025--Liberty All-Star® Equity Fund July 2025 Monthly Update
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Intel stock rises on report Trump administration eyes stake in company
+📝 Bloomberg reported Thursday that the Trump administration is exploring taking a stake directly in struggling chipmaker Intel.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Sector Update: Tech Stocks Retreat Late Afternoon
+📝 Tech stocks declined late Thursday afternoon, with the Technology Select Sector SPDR Fund (XLK) down
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 Oracle Is Cutting Jobs as AI Costs Surge. How Should You Play ORCL Stock Here?
+📝 Oracle is a tech giant that has surged more than 300% over the last five years due to the AI megatrend. Is ORCL stock still a good buy?
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Robinhood CEO admits his RTO call was wrong and now says execs must be in the office 5 days a week: ‘Your manager is going through more pain than you’
+📝 To change the future of the workforce, Robinhood's CEO says change has to start in the corner offices.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Big Tech’s AI Rally Remains Strong. The Economy Can Chug Along Even Without It.
+📝 The S&P 500 and Nasdaq Composite set fresh records again, and artificial-intelligence bulls have the floor.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Killara Outdoors CEO Chris Macaulay Announces Strategic Growth Offensive: Rejects Private Equity Playbook, Eyes IPO as Expansion Tool
+📝 Southlake, Aug. 14, 2025 (GLOBE NEWSWIRE) -- Killara Outdoors, one of the fastest-growing holding companies in the outdoor industry, today announced a decisive long-term growth strategy that challenges the traditional private equity model and sets its sights on becoming the most influential company in the category. CEO Chris Macaulay, who built and exited a media-tech company, served on Microsoft's Global Partner Advisory Board, and became CEO for North America of a global investment group by ag
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Nvidia, AMD, Other AI Stocks Score Price-Target Hikes Amid Strong AI Server Demand
+📝 Data indicates that production of AI servers remains strong, prompting a Wall Street firm to raise its price targets on several AI stocks.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Netradyne Strengthens Leadership Team with New CFO and COO Appointments
+📝 SAN DIEGO, August 14, 2025--Netradyne, a global leader in AI-driven road and fleet safety solutions, today announced the appointment of Smita Sanadhya as Chief Financial Officer (CFO) and Tom Schmitt as Chief Operating Officer (COO). These two key leadership appointments come at a pivotal time of growth for Netradyne, as the company leads the industry in advancing fleet safety by fostering accountability and engaging drivers through positive reinforcement.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 BNY Mellon Global Equity Income Fund Q2 2025 Commentary
+📝 BNY Mellon Global Equity Income Fund underperformed its benchmark index, the FTSE World Index, during the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Alphabet's Google Unlikely to Sell Chrome to Perplexity, Antitrust Case May Stretch to 2028, UBS Says
+📝 Alphabet's (GOOG, GOOGL) Google unit is unlikely to sell Chrome to Perplexity and said it plans to a
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 4 Ways You Can Leverage Microsoft To Make Money
+📝 Microsoft is a powerhouse in the software industry, but the company also has numerous branches that provide monetization opportunities for you.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 CDNS Stock Gains 25% in a Year: Stay Invested or Book Profits?
+📝 Cadence Design's 25% annual gain rides AI and semiconductor demand, but macro and valuation risks urge caution for new buyers.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 WebSell Launches Full Integration with Microsoft Dynamics 365 Business Central and Joins Microsoft AppSource
+📝 WebSell, a trusted e-commerce platform for retailers and wholesalers, has officially launched its full integration with Microsoft Dynamics 365 Business Central. This new solution is now available on Microsoft AppSource , Microsoft's app marketplace for certified business solutions.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 What happens to stocks if AI loses momentum?
+📝 Investing.com -- In its latest note, Sevens warned that the market could face a significant headwind if enthusiasm for artificial intelligence stocks fades, even if the broader U.S. economy remains stable.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Application Lifecycle Management Company Evaluation Report | Microsoft, Atlassian, and IBM Lead with Cloud-Driven, Secure, and Scalable Solutions
+📝 The comprehensive Application Lifecycle Management Companies Quadrant delivers an in-depth analysis of the global Application Lifecycle Management (ALM) market. This meticulous evaluation highlights major industry drivers, including technological advancements, product innovations, and emerging trends. Among over 100 companies evaluated, Siemens AG, IBM, Microsoft, Atlassian, and OpenText lead the quadrant. ALM streamlines software application management, enhancing quality and team productivity t
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 The TopBrand 2025 "Top 500 Global Brands list" has been released, with Microsoft ranking first.
+📝 The 19th China Brand Festival has been successfully held in Shenzhen from August 7–11, 2025. This year's theme is "AI and Global Expansion." A total of 10,000 guests have been gathered in the city of innovation to participate in parallel forums, the Brand Expo, the Entrepreneurs' Sports Games, Brand Leaders Face-to-Face sessions, and other events. More than 2,000 people attended the opening ceremony.
+📊 Sentiment: 0.95
+--------------------------------------------------
+📰 Agentic AI Takes Center Stage at Cognite's Global Impact 2025 Conference to Showcase Industrial Value
+📝 PHOENIX, August 14, 2025--Agentic AI Takes Center Stage at Cognite's Global Impact 2025 Conference to Showcase Industrial Value
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Money Is Rotating Away From Big Tech Stocks. It’s a Good Sign.
+📝 Money Is Rotating Away From Big Tech Stocks. It’s a Good Sign.
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Stocks Pare Earlier Declines. Tech Is Doing the Heavy Lifting.
+📝 Not even a hot inflation report could hold down the Nasdaq for too long. The tech-heavy index was moving in and out of positive territory after opening lower. The S&P 500 was also on the rebound, though it was still down 0.
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 AI as a Service Company Evaluation Report 2025 | AWS, Google, and Microsoft Dominate with Advanced Platforms, Enterprise Integration, and Scalable Intelligence Solutions
+📝 The AI as a Service Companies Quadrant offers in-depth analysis of the global AIaaS market, spotlighting top 15 leaders from over 140 companies evaluated. AI as a Service (AIaaS) provides businesses, particularly SMEs, easy access to AI tools like machine learning and NLP without hefty infrastructure investments, driving efficiency and innovation. Major players like AWS, Google, and Microsoft lead the market, leveraging partnerships and product enhancements. However, challenges like data securit
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Experis Named Leader in Everest Group's 2025 U.S. IT Contingent Talent and Strategic Solutions PEAK Matrix® Assessment
+📝 For the fourth year in a row, Experis®, a global leader in technology workforce solutions and part of the ManpowerGroup (NYSE: MAN) family of brands, has been named a Leader in Everest Group's U.S. IT Contingent Talent and Strategic Solutions PEAK Matrix® Assessment 2025.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Cloud Computing Market Surges to $2,281.1 billion by 2030 - Dominated by Microsoft (US), Google (US), IBM (US)
+📝 Delray Beach, FL, Aug. 14, 2025 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Cloud Computing Market is projected to grow from USD 1,294.9 billion in 2025 to USD 2,281.1 billion by 2030, at a CAGR of 12.0% during the forecast period. Browse in-depth TOC on "Cloud Computing Market" 337 - Tables 65 - Figures 396 - Pages Download Report Brochure @ https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=234 Cloud Computing Market Dynamics: Drivers Operational resilience & digit
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 SpotOn GPS Fence Earns Dual Honors: Named to 2025 Inc. 5000 List and Winners of the Pet Innovation Award
+📝 As a multi-year recipient of both honors, SpotOn’s continued recognition reflects its commitment to innovation, customer service, and product R&D.Manchester, New Hampshire, Aug. 14, 2025 (GLOBE NEWSWIRE) -- SpotOn GPS Fence, the leading GPS-based dog containment system, has been recognized with two prestigious honors this year, earning a place on the 2025 Inc. 5000 list of America’s fastest-growing private companies and winning the 2025 Pet Innovation Award for Fencing Product of the Year. The I
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 DigiCert Joins NIST Effort to Boost Software Supply Chain and DevSecOps Security
+📝 Industry leaders unite to design integrated solutions to improve software supply chain security Under NIST’s Secure Software Development FrameworkLehi, Utah, Aug. 14, 2025 (GLOBE NEWSWIRE) -- DigiCert, a leading global provider of digital trust, today announced its participation in the National Institute of Standards and Technology (NIST) National Cybersecurity Center of Excellence (NCCoE) project focused on Secure Software Development, Security, and Operations (DevSecOps) Practices. DigiCert jo
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Mizuho lifts price targets on global AI server stocks
+📝 Investing.com -- Mizuho raised estimates and price targets for several global AI server and semiconductor names, citing “strong May-July Taiwan AI Server ODM revenue,” significant hyperscaler ramps, and newly granted China licenses.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 CSPi Generates 18% Revenue Growth During FY 2025 Third Quarter
+📝 Reports Continued Progress Penetrating AZT PROTECT™ Sales Channels as Managed Services and Cloud-Based Businesses Maintain Growth Trajectories LOWELL, MA / ACCESS Newswire / August 14, 2025 / CSP Inc. (NASDAQ:CSPI), an award-winning provider ...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Warren Buffett's Biggest Bet: Can Apple’s Recovery Boost Berkshire Hathaway Shares, Too?
+📝 Warren Buffett’s biggest stock position has been struggling in 2025, but that’s starting to change. Here’s how the AAPL story ties into Berkshire’s fortunes.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 CloudMellow Earns Spot on 2025 Inc. 5000, Ranking Among America's Fastest-Growing Private Companies
+📝 Inc., the leading media brand and playbook for the entrepreneurs and business leaders shaping our future, today announced that CloudMellow has been named to the 2025 Inc. 5000 list, ranking among America's fastest-growing private companies. This recognition marks CloudMellow's third appearance on the prestigious list, with an impressive 222% three-year revenue growth.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 BNY Mellon Appreciation Fund Q2 2025 Commentary
+📝 The BNY Mellon Appreciation Fund underperformed the S&P 500 Index in the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Marketing Technology (MarTech) Company Evaluation Report 2025 | Google, Salesforce, and HubSpot Dominate with AI-Driven Advertising, CRM, and Marketing Automation Solutions
+📝 The MarTech Companies Quadrant provides an in-depth analysis of the global MarTech landscape, highlighting the top 28 quadrant leaders from over 100 evaluated companies. MarTech encompasses tools like data analytics, CRM, and AI, aiding marketers in enhancing efficiency and customer engagement. Key market players include Google, Microsoft, and Salesforce, who drive innovation and maintain competitive edges. The ecosystem spans sectors like e-commerce and finance, promoting sustainability and tra
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 UPRO: Benefits And Risks Of The 3x Leveraged ETF
+📝 Maximize gains with UPRO, a 3x leveraged S&P 500 ETF ideal for active traders. Learn its risks, strategies, and why it's not suited for long-term investing.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Thomas Park Ranks No. 390 on the 2025 Inc. 5000 List of America’s Fastest-Growing Private Companies
+📝 ANNAPOLIS, Md., August 14, 2025--Thomas Park, a premier commercial real estate and investment management firm, today announced its ranking at No. 390 on the 2025 Inc. 5000 list as one of the fastest-growing private companies in America. The prestigious ranking represents a data-driven look at the most successful independent businesses in the U.S. economy. Past honorees include household names such as Microsoft, Meta, Chobani, Under Armour, Timberland, Oracle, and Patagonia.
+📊 Sentiment: 0.10
+--------------------------------------------------
+📰 The entire stock market is being carried by these four AI stocks
+📝 The entire stock market is being carried by these four AI stocks
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Open Regulatory Compliance Working Group Welcomes New Members and Provides First Resources to Support CRA Implementation and Compliance
+📝 Microsoft, Red Hat, and other new members join ORC, as the group marks a key milestone with its inventory of CRA resourcesBRUSSELS, Aug. 14, 2025 (GLOBE NEWSWIRE) -- The Open Regulatory Compliance (ORC) Working Group, a pioneering initiative hosted by the Eclipse Foundation to help developers, enterprises, industries, and open source foundations navigate evolving regulatory frameworks, today announced that its first major deliverable aimed at helping organisations that rely on open source softwa
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Vena Receives Sixth Consecutive TrustRadius Tech Cares Award
+📝 TORONTO, August 14, 2025--Vena, the only Complete FP&A platform powered by agentic AI and purpose-built to amplify the Microsoft technology ecosystem, is proud to announce that it has earned the TrustRadius Tech Cares Award for the sixth consecutive year. This recognition honors Vena’s continued excellence in corporate social responsibility (CSR) and recognizes the company’s commitment to both its employees and the communities it serves.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Trading at New All-Time Highs, Is Microsoft Stock Still a Good Buy?
+📝 The tech giant's stock has surged 25% this year.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 CoreWeave Rode the AI Boom. Can It Pass a Crucial Test of Investor Enthusiasm?
+📝 The AI cloud operator has soared since its IPO, but a coming flood of shares following a disappointing report could shift the dynamic.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AI Development Is Accelerating: 1 Vanguard ETF to Buy Right Now
+📝 This Vanguard ETF captures most of the major themes in AI development.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft CEO Satya Nadella Just Delivered Great News for Quantum Computing Investors
+📝 Microsoft is bullish on quantum.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 1 Reason to Buy the Vanguard 500 Index (VFIAX) Index Fund Admiral Shares
+📝 Diversification can reduce your risk.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jeremy Grantham's Strategic Moves: Significant Reduction in Otis Worldwide Corp
+📝 Exploring the Investment Shifts of a Renowned Value Investor
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Telkomsel, Nuon, and Bango bring convenient and affordable Microsoft PC Game Pass access to Indonesian gamers, strengthening their digital gaming experience
+📝 Starting at IDR 63k per month, customers can enjoy hundreds of high-quality PC games via IndiHome Add-On, powered by the Digital Vending Machine® from BangoFor the first 500 users, PC Game Pass Xbox First-Month-Free promo is available starting August 14, 2025 CAMBRIDGE, United Kingdom, Aug. 14, 2025 (GLOBE NEWSWIRE) -- Bango (AIM: BGO) - the global leader in subscription bundling, Telkomsel - the leading digital telco service provider in the region and Nuon Digital Indonesia (Nuon) - Indonesia’s
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 5 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade
+📝 AI remains a potential game-changing technology that is still in its early innings.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Soar in September (Hint: It's Not Nvidia)
+📝 The tech industry's hyperscalers have reported second-quarter earnings, and one main theme has emerged: They continue to spend heaps of cash on AI infrastructure.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Not All Value Indexes Are Created Equal: Russell Vs. S&P
+📝 As of August 2025, theÂ Russell 1000 Value IndexÂ outperformed theÂ S&P 500 Value Index by 2.5% year-to-date, driven largely by its exposure to companies absent from the S&P benchmark.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 A Look Back at Automation Software Stocks’ Q2 Earnings: Microsoft (NASDAQ:MSFT) Vs The Rest Of The Pack
+📝 Let’s dig into the relative performance of Microsoft (NASDAQ:MSFT) and its peers as we unravel the now-completed Q2 automation software earnings season.
+📊 Sentiment: 0.60
+--------------------------------------------------
+📰 These stocks were pushing the Dow toward 45,000 and maybe a record
+📝 While they may not be the ones you might expect, they have one thing in common.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 College Counseling Firm, Prepory, Ranks on the 2025 Inc. 5000 List of America's Fastest-Growing Private Companies
+📝 Miami, Florida--(Newsfile Corp. - August 13, 2025) - Prepory, the Miami-based college admissions coaching company reimagining how students prepare for college, has been named to the 2025 Inc. 5000 list, Inc. Magazine's annual ranking of the fastest-growing private companies in America.Inc.com.To view an enhanced version of this graphic, please visit:https://images.newsfilecorp.com/files/11738/262457_2a793f59e4a38ad0_001full.jpgWith significant revenue growth over the last three years, Prepory jo
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The Crypto Payment Paradox: Why Nobody's Actually Buying Coffee With Bitcoin In 2025
+📝 Despite years of “crypto is the future of money” rhetoric, a candid discussion among cryptocurrency enthusiasts on Reddit reveals the stark reality: most people still aren’t spending their digital assets like traditional currency. While the ...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Virtual Reality Market to Reach $38 Billion by 2029: Key Trends & Forecasts
+📝 Delray Beach, FL, Aug. 13, 2025 (GLOBE NEWSWIRE) -- The report "Virtual Reality Market by Technology (Non-immersive, Semi & Fully Immersive), Offering, Device Type (Head-mounted Devices, Gesture Tracking Devices, Projectors & Display Walls), Application and Region - Global Forecast to 2029", The global virtual reality market was valued at USD 15.9 billion in 2024 and is projected to reach USD 38.0 billion by 2029; it is expected to register a CAGR of 19.1% during the forecast period. The rise in
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Repeat - Tevogen.AI Expands Collaboration With Databricks and Microsoft to Build the Beta Version of Its PredicTcell™ Model With a Focus on Oncology
+📝 Tevogen.AI to explore external market opportunities as a potential revenue source. Beta version to incorporate oncology targets, enhancing the accuracy and diversity of the PredicTcell model and potentially accelerating cancer immunotherapy development.Tevogen.AI to develop enhanced analytics and visualization tools, for the PredicTcell model to support its internal R&D teams. WARREN, N.J., Aug. 13, 2025 (GLOBE NEWSWIRE) -- Tevogen (“Tevogen Bio Holdings Inc.” or “Company”) (Nasdaq: TVGN) today
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Dear CrowdStrike Stock Fans, Mark Your Calendars for August 27
+📝 With CrowdStrike set to unveil its second-quarter earnings on August 27, investors may want to keep a close watch on the stock.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple Plots Expansion Into AI Robots, Home Security and Smart Displays
+📝 New cameras will anchor an Apple security system that can automate household functions.  The approach should help make Apple’s product ecosystem stickier with consumers, said the people, who asked not to be identified because the initiatives haven’t been announced.  Apple shares climbed to a session high on Wednesday after Bloomberg News reported on the plans.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 CoreWeave Shares Tumble on Bigger-Than-Expected Loss; Tigress Financial Points to Demand Acceleration
+📝 CoreWeave (CRWV) shares plummeted intraday Wednesday after the company posted a wider-than-expected
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Building A $50,000 Dividend Portfolio: Enhancing SCHD's Income With August's Top High-Yield Stocks
+📝 Build a $50k dividend portfolio with SCHD at the core, boosted by high-yield picks & growth stocks.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Striim Announces 5.2 - Major Release adds new AI Agents for Predictive Analytics and Vector generation for building novel Gen AI Enterprise Applications with real-time Intelligence
+📝 PALO ALTO, Calif., Aug. 13, 2025 (GLOBE NEWSWIRE) -- With fast emerging requirements for AI everywhere - Enterprises face new challenges in modernizing their core infrastructure, systems, and applications to adopt an AI-centric future. With an ever-expanding multi-cloud data estate, enterprises are grappling with brittle data pipelines, ETL based batch lag, lack of automated agents, and siloed data architectures that are complex to integrate. Striim’s latest product release: Striim 5.2, empowers
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Microsoft Goes Long In Farmland; Could This Investing Sector Exceed The $3.8 Trillion Commercial Office Market?
+📝 Is there an investment vehicle that has some immunity against stock market volatility, produces steady returns over the long term, attracts the money of even the largest corporations, and improves the ecology of agricultural soil?  Managers at Farmland LP think so.  This statistic might also surprise investors: With an estimated total market capitalization of $3.8 trillion and rising, according to industry sources, farmland matches the heft of the commercial office building market.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 It’s a Big Year for Videogames. EA and Battlefield 6 Are the Next Winners.
+📝 It’s a Big Year for Videogames. EA and Battlefield 6 Are the Next Winners.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 PEGA Trades 16% Below 52-Week High: Buy, Sell or Hold the Stock?
+📝 Pegasystems' robust ACV growth and AI-driven solutions fuel long-term potential, but competition and valuation pressures weigh on near-term performance.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 As degrees get branded worthless, LinkedIn’s just revealed the universities that give Gen Z the best shot at corner office jobs
+📝 Move over Harvard and Columbia, Princeton and Duke are the schools most likely to fast-track Gen Z to the C-suite.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 How Worrisome Are Recent Economic Reports? Money Pros Weigh In.
+📝 Adam Reinert, chief investment officer and chief operating officer, Marshall Financial: I feel like we’re in a similar spot to last August, where it looked like the labor market was starting to weaken.  People were starting to wonder if the Fed was too late in cutting rates, and it ended up cutting that September.  The unemployment reflects that we still have essentially a fully employed America, and labor demand is weaker than those immediate post-Covid years.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Intel: Why Foundry Has Become A Lost Cause
+📝 Intel's foundry strategy is faltering, with CEO Lip-Bu Tan signaling a shift away from advanced node development. Read what this means for investors.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Adobe Is A Buy At Its Current Valuation
+📝 AI is an accelerant for Adobe, with management focused on leveraging AI tools like Firefly and Agentic AI to drive user value and ARR. Find out why ADBE is a Buy.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Palantir's Perfect Storm: How Changing Conditions Could Disrupt A Market Darling
+📝 Discover why Palantir's high valuations and market risks signal potential downside.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Snap: I'm Buying This Former Takeover Target With Shares Decimated From $80 To Just $7
+📝 Snap's fundamentals show revenue and user growth, and with a $12B market cap, it could easily be acquired by a tech giant or media company. Learn more on SNAP stock here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AI Revolution: More Skynet Than Nirvana
+📝 Discussing key differences between the AI revolution and the Internet boom and why markets are likely to sell off once this reality becomes more apparent. Read what investors need to know.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Scams Against Elderly Americans Are Getting Worse, and Crypto Is Often Involved
+📝 Scams Against Elderly Americans Are Getting Worse, and Crypto Is Often Involved
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 CoreWeave stock plummets as AI cloud company reports 'deteriorating' operating income outlook
+📝 CoreWeave stock fell after the AI data center company's second quarterly earnings report since its IPO in March.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Snowflake, Datadog show strong July growth, MongoDB stabilizes
+📝 Investing.com -- According to Bank of America’s Cloud Views note on Wednesday, Snowflake and Datadog posted standout results in July, while MongoDB showed signs of stabilization.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Stocks Can Climb the ‘Wall of Worry’ as Long as These Anchors Remain in Place
+📝 As long as unemployment remains low and inflation isn’t high enough to deter the Fed, markets can continue to climb the wall of worry, according to one investment strategist.  A key driver of the rally has been the megacap tech stocks and their leadership in artificial intelligence.  Linchpins of the rally will get tested in coming weeks as Nvidia reports results and the government releases August jobs data.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Nuclear Power Is Having a Pop Culture Moment
+📝 Atomic energy has attracted influencers, spawned merch and even made a cameo on ESPN’s ‘College GameDay.’
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Intapp Stock Is Climbing After Earnings. Here’s What Analysts Are Saying.
+📝 Intapp  stock was rising sharply Wednesday after the cloud software company reported better-than-expected earnings and announced $150 million in stock buybacks.  Intapp  also announced Tuesday that its board authorized a common stock repurchase program of up to $150 million.  The jump was welcome news for shareholders, who have endured a 42% drop in Intapp’s share price this year as of Tuesday’s close.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Should You Stay Invested in or Sell Nebius Stock Post Q2 Earnings?
+📝 NBIS posts massive Q2 growth and ups ARR forecast, but faces stiff competition, high spending and scaling risks ahead.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2 Top Stocks to Invest $1,000 in Right Now
+📝 These stocks continue to beat expectations.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AI in Education Market Surges to $5.82 billion by 2030 - Dominated by Microsoft (US), IBM (US), Google (US)
+📝 Delray Beach, FL, Aug. 13, 2025 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global AI in Education Market size is anticipated to grow at a CAGR of 17.5% during the forecast period, from USD 2.21 billion in 2024 to USD 5.82 billion by 2030. Browse in-depth TOC on "AI in Education Market" 349 - Tables 70 - Figures 385 - Pages Download Report Brochure @ https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=200371366 AI in Education Market Dynamics Drivers Increase in demand for perso
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 CheckedUp Named to Inc. 5000 List of America’s Fastest-Growing Companies for 4th Time, with Three-Year Revenue Growth of 268%!
+📝 NEW YORK, August 13, 2025--CheckedUp, the fastest-growing digital Point of Care company transforming patient and provider engagement, today announced its fourth appearance on the 2025 Inc. 5000 list, the most prestigious ranking of the fastest-growing private companies in America. The list provides a data-driven snapshot of the most successful companies within the economy’s most dynamic segment—its independent, entrepreneurial businesses. Past honorees include Microsoft, Meta, Chobani, Under Arm
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 SoundHound Stock Soars 49% Since Q2 Earnings: Should You Still Buy?
+📝 SOUN stock climbs 49% after a record Q2, driven by AI traction and raised guidance-but is there more upside ahead?
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Project Portfolio Management Market Surges to $13.7 billion by 2029 - Dominated by Oracle (US), Smartsheet (US), Microsoft (US)
+📝 Delray Beach, FL, Aug. 13, 2025 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the Project Portfolio Management Market is expected to grow from USD 7.8 billion by 2024 to USD 13.7 billion by 2029 at a Compound Annual Growth Rate (CAGR) of 11.9% during the forecast period. Browse in-depth TOC on "Project Portfolio Management Market" 348 - Tables 63 - Figures 340 - Pages Download Report Brochure @ https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=225932595 Project Portfolio Management
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 CoreWeave Stock Drops. This Could Slam the Brakes on Its Growth Plans.
+📝 CoreWeave Stock Drops. This Could Slam the Brakes on Its Growth Plans.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Dear Cisco Stock Fans, Mark Your Calendars for August 13
+📝 Investor anticipation is intensifying as Cisco’s Q4 results approach, fueled by AI advances, strong demand for networking, and robust stock momentum.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Vouched Listed on the 2025 Inc. 5000 List of America’s Fastest-Growing Private Companies
+📝 SEATTLE, August 13, 2025--Inc. has announced that Vouched, the leader in AI-powered identity verification, has again been named to the annual Inc. 5000 list, the most prestigious ranking of the fastest-growing private companies in America. The list provides a data-driven snapshot of the most successful companies within the economy’s most dynamic segment—its independent, entrepreneurial businesses. Past honorees include companies such as Microsoft, Meta, and Oracle.
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 Impartner Releases AI Partner Playbook to Guide Practical AI Adoption Across Partner Programs
+📝 SALT LAKE CITY, August 13, 2025--Impartner, the global leader in partner ecosystem management solutions, announces the release of the AI Partner Playbook, a practical guide designed to help partner teams understand how to integrate artificial intelligence (AI) into their programs. This playbook serves as a practical framework for translating AI ambition into measurable outcomes, built on real-world insights from ecosystem professionals already driving AI-powered transformation.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 RichLife Advisors Ranks No. 2813 on the 2025 Inc. 5000 List of America's Fastest-Growing Private Companies
+📝 RichLife Advisors has earned the No. 2813 spot on the 2025 Inc. 5000 list, marking its debut on the prestigious ranking of the fastest-growing private companies in America. Produced every year since 1982, the Inc. 5000 honors the most successful independent businesses in the U.S., with past honorees including Microsoft, Meta, Chobani, Under Armour, and Patagonia.
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Chamelio Launches Landmark Update, Delivering End-to-End AI for Contract Review, Negotiation, and Repository Management
+📝 NEW YORK, August 13, 2025--Chamelio, the AI-powered legal intelligence platform used by some of the world’s fastest-growing companies, today announced one of its most significant product releases to date—bringing a fully seamless experience across the entire contract review and negotiation workflow, and introducing powerful new capabilities to Chamelio Core, the platform’s smart repository.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Penstock Ranks No. 353 on the 2025 Inc. 5000 List of America's Fastest-Growing Private Companies
+📝 Inc., the leading media brand and playbook for entrepreneurs and business leaders shaping the future, today announced that Penstock ranked No. 353 on the annual Inc. 5000 list—and among the top 50 fastest-growing companies in the healthcare and medical sector.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Nvidia and Microsoft Stocks Have Reached a $4 Trillion Valuation. Is Apple Next?
+📝 Is Apple Falling behind, or will it come from behind?
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Buy MSFT Amid Double-Digit Short-Term Upside on AI and Cloud Strength
+📝 Microsoft's accelerating Azure growth, surging AI adoption, and robust earnings outlook point to strong short-term upside potential.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Prediction: This Artificial Intelligence (AI) Stock Will Outperform Nvidia Through 2030
+📝 Virtually all AI developments start with this company's operations.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Rigetti Computing's Roadmap Is Strong, But The Stock Prices In The Bull Case
+📝 Rigetti Computing, Inc. is definitely making strong technical progress, and it has a solid financial cushion. Click here to find out why RGTI stock a Hold.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Rigetti Computing unveils 36-qubit system on cloud platforms
+📝 The Cepheus-1-36Q system is claimed to halve the two-qubit gate error rate compared to the previous Ankaa-3 model.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The Market’s Fear Gauge Is at Its Lowest Level This Year. Why Investors Are Feeling Zen.
+📝 Wall Street’s go-to fear gauge hit its lowest level of the year on Wednesday, signaling that investors are in a calm mood after months of on-off tariff drama.  There are plenty of reasons for investors to feel zen.  Jobs are now a worry after a soft July nonfarm payrolls report, and any sign of further weakness could be cause for more volatility.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Analysis: Just in time? Manufacturers turn to AI to weather tariff storm
+📝 LONDON (Reuters) -Manufacturers like U.S. lawnmower maker The Toro Company are not panicking at the prospect of U.S. President  Donald Trump's global trade tariffs.  Despite five years of dramatic supply disruptions, from the COVID pandemic to today's trade wars, Toro is resisting any temptation to stack its warehouses to the rafters.  "We are at probably pre-pandemic inventory levels," says its chief supply-chain manager, Kevin Carpenter, looking relaxed in front of a whiteboard at his office in Minneapolis.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Investors Playing More Defense Even as Stocks Climb to New Highs
+📝 Now, signs are emerging that investors have started to heed the warnings.  A Goldman Sachs Group Inc. basket of S&P 500 companies with the strongest balance sheets just posted the best week since early April relative to a basket of firms with weaker finances.  The cash-rich companies, including the likes of Fastenal Co., Palantir Technologies Inc. and West Pharmaceutical Services Inc., have gained for three straight weeks, the longest run since Donald Trump’s initial tariff announcement sent markets into a tailspin.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Global Combat Cloud for Defense Applications Market Report 2025 | Long-Term National Programs, Multi-Domain Combat Readiness, and Streamlined Defense Software Procurement Fueling Growth
+📝 The cloud computing shift offers militaries opportunities for cross-branch collaboration, rapid deployment, and modernization. Commercial providers like Microsoft and Google lead, partnering with defense companies to meet military needs. Challenges include high transition costs and regulatory compliance, particularly in Europe.Dublin, Aug. 13, 2025 (GLOBE NEWSWIRE) -- The "Growth Opportunities in the Global Combat Cloud for Defense Applications Market" report has been added to ResearchAndMarkets
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Enough Is Enough: AI Is Driving Us To Sell Our S&P 500 Position
+📝 AI-driven hype boosts S&P 500 concentration, but stretched valuations and risks lead to a Sell rating.
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Meet Global Sustainability Leaders in London - Sustainability LIVE 2025 This September
+📝 Over 3,000 sustainability leaders will gather at the Business Design Centre, London, on 9-10 September for the 5th annual Sustainability LIVE London - BizClik's flagship sustainability event and one of the UK's largest gatherings dedicated to sustainable business transformation.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 My Dividend Stock Portfolio: New July Dividend Record - 100 Holdings With 12 Buys
+📝 See here for more on July's investment insights: record-breaking dividends, high-yield BDCs, and strategies for steady income growth.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 SCHG: AI Stays In America's Corner
+📝 AI revolution drives tech growth with strong Q3 EPS forecasts, major investments, and SCHG ETF's impeccable November track record. See more here.
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 CoreWeave Revenue Tops Estimates On Compute Demand. Beat Smaller Than Q1.
+📝 CoreWeave Revenue Tops Estimates On Compute Demand. Beat Smaller Than Q1.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 [Latest] Global Generative AI in IT Operations Market Size/Share Worth USD 29.13 Billion by 2034 at a 32.82% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trend, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)
+📝 [220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Generative AI in IT Operations Market size & share revenue was valued at approximately USD 1.71 Billion in 2024 and is expected to reach USD 2.26 Billion in 2025 and is expected to reach around USD 29.13 Billion by 2034, at a CAGR of 32.82% between 2025 and 2034. The key market players listed in the report with their sales, revenues and strategies are Amazon Web Serv
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Amazon: Path To $270 By Year-End
+📝 Amazon's Q2 results exceed expectations, driven by AWS growth and efficiency gains. Read here for an investment analysis of AMZN stock.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Tech Week Singapore 2025: Tech and AI converge with key sectors to power innovations across the region
+📝 CloserStill Media, a global producer of market-leading events, has announced the return of Tech Week Singapore 2025, taking place at Sands Expo & Convention Centre on 8–9 October 2025. This year's edition, themed "Connected Futures, Boundless Impact", will welcome Mr Tan Kiat How, Senior Minister of State for Digital Development and Information, as the Guest of Honour (GOH).
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 All U Need Pest Control Ranks No. 1148 on the 2025 Inc. 5000 List of Fastest-Growing Private Companies
+📝 All U Need Pest Control has once again been recognized as one of the fastest-growing private companies in America, earning the No. 1148 spot on the prestigious 2025 Inc. 5000 list. This milestone marks the fourth consecutive year the company has been honored, underscoring its consistent growth, resilience, and commitment to exceptional service in the pest control industry.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Harvard University reveals shocking Bitcoin investment
+📝 Ivy League colleges like Harvard and Brown reveal endowments that disclose exposure to BlackRock's Bitcoin ETF.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 For the Third Consecutive Year, Tyson Group Named to the Inc. 5000 List of Fastest-Growing Companies in America
+📝 DUBLIN, Ohio, Aug. 12, 2025 (GLOBE NEWSWIRE) -- Inc. announced last week that Tyson Group ranks No. 2594 on the 2025 Inc. 5000 list of the fastest-growing private companies in America. This marks the third consecutive year Tyson Group has earned this prestigious honor, underscoring the company’s proven ability to help organizations drive predictable revenue growth by optimizing sales effectiveness. The Inc. 5000 is widely recognized as the definitive ranking of entrepreneurial success, spotlight
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 EA Stock Hits Record High On Buzz For New Video Game
+📝 Electronic Arts is riding high on excitement for "Battlefield 6," the latest in its combat action video game series. EA stock notched a record high.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Big Tech is driving the stock market to new records
+📝 An AI-infused rally is once again sending the S&P 500 to record highs.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Sector Update: Tech Stocks Climb Late Afternoon
+📝 Tech stocks were higher late Tuesday afternoon, with the Technology Select Sector SPDR Fund (XLK) ri
+📊 Sentiment: 0.10
+--------------------------------------------------
+📰 Rigetti Computing Reports Second Quarter 2025 Financial Results; Announces General Availability of its 36-Qubit Multi-Chip Quantum Computer
+📝 Cepheus-1-36Q Rigetti’s Cepheus-1-36Q modular processor. Photo credit: Drew Bird Photography Cepheus-1-36Q processor assembly A single 9-qubit Rigetti chip being loaded into a mount for flip-chip bonding, the process used for assembling Rigetti’s Cepheus-1-36Q processor. Photo credit: Drew Bird Photography BERKELEY, Calif., Aug. 12, 2025 (GLOBE NEWSWIRE) -- Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced it
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The Stock Market Is Betting on Big Tech and Rate Cuts, Not the Economy
+📝 Digging deeper into the July numbers, investors are also finding some evidence of stagflation risks in the world’s biggest economy that could test the market’s impressive rally heading into the autumn months.  Core consumer price pressures, which strip out volatile components like food and energy, rose at an annual pace of 3.1% last month, the quickest since February, according to data from the Bureau of Labor Statistics.  “Those looking for a meaningful influence on consumer prices from tariffs in July were largely chasing shadows,” Jason Pride, chief of investment strategy and research at Glenmede, said about the July CPI report.
+📊 Sentiment: 2.00
+--------------------------------------------------
+
+🧮 Sentiment average: 0.52
+📊 Fundamentals score: 0.70
+🗣️ Analyst score: 0.89
+🔗Combined score: 0.65
+
+📈 Buy

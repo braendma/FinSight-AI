@@ -1,0 +1,944 @@
+🔎 Analysis for AAPL from 2025-07-19 to 2025-08-19
+
+📰 U.S. Official Says U.K. Drops Access Request for Apple Data
+📝 The U.S. director of national intelligence said the U.K. will withdraw a request to access encrypted data from Apple’s U.S. users.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 This WSJ Markets Quiz Was a Real Head-Scratcher. See How Our Readers Fared.
+📝 Did you beat other WSJ readers on investing columnist Spencer Jakab's stock-market quiz? For five of the eight items, less than half of participants were able to pick the right answer. Here's the proportion ...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jefferies’ top stock picks: From Big Tech to semis, these are consistent winners
+📝 Investing.com -- Wall Street research firm Jefferies has put together a shortlist of U.S. companies that not only deliver earnings beats but also enjoy upbeat analyst sentiment and positive revisions following results. The research filters for companies with market caps over $10 billion, four straight quarters of EPS beats, and positive commentary. These firms are also seeing upward estimate revisions shortly after results—an important sign that earnings momentum may have legs. Here are the key
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Xiaomi’s Revenue Rises 31% After Second EV Fires Up Consumers
+📝 Xiaomi delivered 81,302 cars in the second quarter, taking the total to more than 157,000 over the first half — on track to surpass 2024’s haul.  Strong demand for the YU7 sport utility vehicle, which co-founder Lei Jun released at the end of June, is propelling Xiaomi’s $10 billion gamble on a fast-growing but crowded EV arena.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 I Just Dropped $20K In These 3 Stocks
+📝 Explore 2025's market highs driven by tech and earnings.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Media Editing Software Market Forecast to 2030 Featuring Strategic Analysis of Leading Players - Adobe, Apple, Blackmagic Design, AVID Technology, Corel Corporation & More
+📝 Opportunities in the media editing software market include harnessing cloud integration and AI for enhanced workflows, leveraging mobile and web platforms for accessibility, adapting to regional digital infrastructure, and forming strategic partnershipsDublin, Aug. 19, 2025 (GLOBE NEWSWIRE) -- The "Media Editing Software Market by Deployment Type (Cloud, on Premise), Application (Audio Editing, Image Editing, Speech Editing), Organization Size, Price Model, Platform, End User - Global Forecast 2
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 Macquarie Large Cap Growth Fund Q2 2025 Commentary
+📝 For 2Q25, Macquarie Large Cap Growth Fund Institutional Class shares posted absolute positive returns but underperformed the Fundâs benchmark, the Russell 1000 Growth Index.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Artisan Global Opportunities Fund Q2 2025 Commentary
+📝 Global markets turned in an impressive but volatile Q2, swinging from double-digit declines to double-digit gains. Click here to read more.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Prediction: This Unstoppable Stock Will Join Nvidia, Microsoft, Apple, Amazon, and Alphabet in the $2 Trillion Club by 2028
+📝 Semiconductors underpin the artificial intelligence (AI) revolution, and this company is already ringing the cash register.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Britain caves in to Trump demands on iPhone security
+📝 Yvette Cooper has dropped a controversial demand for a “backdoor” into people’s iPhones under pressure from the White House.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Why I Don't Count On Apple's Magic Anymore (Rating Downgrade)
+📝 Apple's slow growth, premium valuation, and equity risks limit returns to 6%, making it less attractive compared to safer fixed-income options.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Columbia Large Cap Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedle Investments reports Q2 results for its Large Cap Growth Fund, highlighting AI-driven gains and sector rotation. Explore key holdings and outlook.
+
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Wireless Audio Devices Industry Poised for $70.9 Billion Market Boom by 2029
+📝 Delray Beach, FL, Aug. 18, 2025 (GLOBE NEWSWIRE) -- The report "Wireless Audio Device Market by Product (True Wireless Hearables/Earbuds, Headsets, Earphones), Technology (Bluetooth, Airplay, Wi-Fi), Application (Consumer, Home Audio, Automotive), Functionality (Smart, Non-smart) and Region - Global Forecast to 2029" The Wireless Audio Device Market is projected to reach from USD 56.5 billion in 2024 to USD 70.9 billion by 2029; it is expected to grow at a CAGR of 4.7% from 2024 to 2029. The ups
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Purpose Investments Inc. Announces August 2025 Distributions
+📝 TORONTO, Aug. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of August 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is August 27, 2025. The ex-distribution date for all closed-end funds is August 29, 2025. Open-End FundsTicker SymbolDistribution per share/unitRecord DatePayable DateDistribution FrequencyApple (AAPL) Yield Shares Purpose ETF - ET
+📊 Sentiment: 0.40
+--------------------------------------------------
+📰 Sam Altman Says There’s an AI Bubble. What Wall Street Thinks.
+📝 OpenAI CEO Sam Altman told reporters that he thinks the AI market is in a bubble. Not everyone is concerned.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 As Apple Preps to Unveil AI Products, How Should You Play AAPL Stock?
+📝 Apple’s upcoming launch of AI-powered devices and robust financial results have analysts sounding cautiously optimistic, with most recommending to hold or buy as new products could reignite momentum in the stock.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Columbia Global Technology Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedle reports a standout quarter for its Global Tech Growth Fund, fueled by AI-driven gains. Explore how innovation is powering performance.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Exclusive-Arm hires Amazon AI exec to boost plans to build its own chips
+📝 SAN FRANCISCO (Reuters) -Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.  Sinno was responsible for helping to develop Amazon's homegrown AI chips called Trainium and Inferentia that are designed to help build and run large AI applications.  Until now, Arm has not built its own chips.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Arm hires Amazon AI exec to boost plans to build its own chips
+📝 SAN FRANCISCO (Reuters) -Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.  Sinno was responsible for helping to develop Amazon's homegrown AI chips called Trainium and Inferentia that are designed to help build and run large AI applications.  Until now, Arm has not built its own chips.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Autonomous Vehicles Hit an Inflection Point; GPT-5 Is Here
+📝 Motley Fool Money checks in on some stock market news.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple's Vision Pro Has Little to Watch
+📝 Apple has slow-walked the release of immersive video for its Vision Pro headset. Bloomberg's Consumer Tech Editor Mark Gurman says this is unlikely to change before the release of Apple's next version of the headset. He joins "Bloomberg Tech" to talk about why sales of headsets are down and what the company is planning next.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Bank of America suggests the era of the biggest stocks dominating markets 'may be done'
+📝 After years of large-cap outperformance, Bank of America believes the stock market may be ripe for a regime shift.
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 No Investment Strategy Works Forever—Not Even for the Mag 7
+📝 Only two of the seven companies are outperforming their weight in the S&P 500, Allan Sloan writes in a guest commentary.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 How Ethereum Treasury Companies are Following the BTC Playbook
+📝 Crypto treasury companies are evolving beyond Bitcoin. While pioneers like MicroStrategy showed the world what was possible, companies like Bitmine Immersion are now taking that playbook and applying it to Ethereum.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Hartford Large Cap Growth ETF Q2 2025 Commentary
+📝 The Hartford Large Cap Growth ETF outperformed the Russell 1000 Growth Index during the quarter. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Substack writers can now direct US readers to (often cheaper) web-based subscriptions on iOS
+📝 Substack's iOS app rolls out support for web-based payments, which can save subscribers money.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 FXI: Why A Bad Chinese Economy Could Be Good For China Stocks
+📝 China's GDP slows, but ETFs like FXI thrive with strong consumer and tech exposure.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple iPhone 17 Anticipation Builds. Is Apple Stock A Buy?
+📝 Apple iPhone 17 Anticipation Builds. Is Apple Stock A Buy?
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Why Morgan Stanley Thinks Apple (AAPL) Shares Could Be Turning the Corner
+📝 Apple Inc. (NASDAQ:AAPL) is one of the AI Stocks Making Headlines This Week. One of the most notable analyst calls on Friday, August 15, was for Apple Inc. Morgan Stanley reiterated the stock as “Overweight” stating that Apple shares appear to be “turning a corner.” The optimism comes after stronger-than-expected iPhone sales drove an upward revision […]
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Facebook-Parent Meta Readies ‘Hypernova’ Glasses. What It Means for the Stock.
+📝 Meta Platforms  is hovering near the $2 trillion mark as investors warm to its progress in artificial intelligence.  The social media company has already sold more than two million pairs of its Ray-Ban Meta smart glasses, produced in partnership with eyewear maker  EssilorLuxottica  Now it’s aiming to build on that success with a more impressive device.  Meta’s current smart glasses have limited capabilities, being mostly used for photos and video, audio, and some AI interaction.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Buffett's Shot in the Arm Sends UnitedHealth Soaring Against the Odds
+📝 Buffett's $1.57B bet on UNH sparks a 12% surge, lifting peers despite sector headwinds and recent struggles at the insurer.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock
+📝 Recently, Zacks.com users have been paying close attention to Apple (AAPL). This makes it worthwhile to examine what the stock has in store.
+📊 Sentiment: 0.60
+--------------------------------------------------
+📰 Apple Expects $1.1 Billion Tariff Hit in 4th Quarter After $800 Million Q3 Hit; CEO Tim Cook Warns ‘Many Factors That Could Change’
+📝 Tim Cook warns tariffs cost Apple $800M in June, projects $1.1B in September; cites volatile trade policies, potential margin pressure, and supply chain geopolitical risks.
+📊 Sentiment: -0.80
+--------------------------------------------------
+📰 Samsung Steals U.S. Market Share from Apple as Foldables and AI Take Center Stage
+📝 Samsung's Z Fold 7 and Z Flip are gaining popularity.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 The boss is back
+📝 No more Mr Nice Guy. Five years after the Covid pandemic forced employers to embrace empathy and flexibility, bosses are back to laying down...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Natural Language Understanding Market to USD 108.2 Billion by 2032, Owing to Surge in Conversational AI Use Across Industries | Report by SNS Insider
+📝 The growing demand for context-aware digital assistants and intelligent enterprise solutions is fueling the natural language understanding market.Austin, Aug. 18, 2025 (GLOBE NEWSWIRE) -- According to the SNS Insider report, the Natural Language Understanding Market size was valued at USD 21.8 billion in 2024 and is projected to reach USD 108.2 billion by 2032, growing at a CAGR of 22.43% from 2025 to 2032. The U.S. Natural Language Understanding market was valued at USD 2.7 billion in 2024 and
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Foxconn’s Apple era fades as AI servers drive growth in Taiwan tech sector
+📝 TAIPEI (Reuters) -Taiwan's Foxconn, which rose to become a global tech manufacturing juggernaut by assembling millions of iPhones, can now say its main business is no longer Apple as it takes advantage of the AI-boom to diversify its income.  Its revenue from making AI servers and other cloud and networking products, including for major customer Nvidia, surpassed smart consumer products such as iPhones for the first time in the second quarter, marking the culmination of a shift that began years ago and has swept through Taiwan’s tech industry.  Foxconn's heavy reliance on the smartphone business has long been viewed by investors as a significant risk, as demand growth for new iPhones has gradually weakened since they were first introduced nearly two decades ago, leaving the top iPhone assembler grappling with slowing sales momentum, analysts said.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Down 91% From Its Record High, Can Snap Stock Snap Back in 2025?
+📝 Snap is making all the right moves to fuel a long-term recovery, but they need some time to bear fruit.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Fifth Generation (5G) Devices Market Outlook Report 2025, with Competitive Landscape and Company Profiles of Leading and Innovative Players
+📝 The 5G devices market is poised for exponential growth, soaring from $4.33 billion in 2024 to $26.05 billion in 2029 with a 43.1% CAGR. Driven by high-speed connectivity needs, industrial demand, and innovative trends in IoT and smart cities, major players like Apple and Samsung are advancing 5G technology. Fifth Generation (5G) Devices Market Fifth Generation (5G) Devices Market Dublin, Aug. 18, 2025 (GLOBE NEWSWIRE) -- The "Fifth Generation (5G) Devices Market Report 2025" has been added to Re
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Worth Over $10 Trillion by 2035
+📝 Ten years. $10 trillion. Easy peasy?
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Valuedynamx Commerce Platform Offers Apple Products for Premium Shopping Experiences and Rewards to Deepen Customer Engagement
+📝 Valuedynamx, a Collinson company and leading provider of purchase rewards, is transforming loyalty reward offerings by enabling banks, hotels, and airlines to optimize their rewards programs by offering Apple products to drive customer loyalty, acquisition and engagement through an unrivaled retail experience built for today's most valuable audiences. Live in three continents with additional growth underway, this allows financial services and travel companies to directly offer their most valuabl
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Columbia Disciplined Growth Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Growth Fund rose 16.38% in Q2 2025, driven by AI-led tech gains. See how stock selection shaped results and whatâs next for investors.
+
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Columbia Disciplined Core Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Disciplined Core Fund returned 9.54% in Q2 2025, led by AI-fueled tech picks. Discover how stock selection shaped performance.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 How to find the weak link in your finances
+📝 It's easy to only appreciate the weak link in your finances when something goes wrong — and it’s too late — so it’s worth considering your position now.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple iPhone faces a major threat from Samsung
+📝 Apple's iPhone is losing ground to its fiercest rival.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Columbia Contrarian Core Fund Q2 2025 Commentary
+📝 Columbia Threadneedleâs Contrarian Core Fund beat its benchmark in Q2 2025 amid AI-fueled tech gains. Explore what drove performance and whatâs next.
+
+📊 Sentiment: 0.50
+--------------------------------------------------
+📰 Apple (AAPL) Seen Weathering Legal and Tariff Risks, Evercore Stays Bullish with $250 Target
+📝 Apple Inc. (NASDAQ:AAPL) is one of the best big tech stocks to buy right now. Apple has posted one of the weakest performances among the mega-cap companies, with its shares having lost over 8% year-to-date. Much of the recent weakness has stemmed from uncertainty around the company’s AI strategy, but Evercore ISI analyst Amit Daryanani continues […]
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Invesco Nasdaq 100 ETF: A Better Buy Than QQQ
+📝 QQQM combines low fees and tax efficiency with strong tech exposure, but carries concentration risks for short-term investors. Learn why QQQM ETF is a buy.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Columbia Balanced Fund Q2 2025 Commentary
+📝 Columbia Threadneedle reports strong Q2 gains for its Balanced Fund, beating benchmarks with tech-driven equity picks. See how your portfolio could benefit.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 1 Brilliant Artificial Intelligence (AI) Stock That Will Be Worth More Than Apple by 2030
+📝 Amazon's growth rates are far superior to Apple's.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Macquarie Value Fund Q2 2025 Commentary
+📝 For the second quarter, Macquarie Value Fund Institutional Class shares trailed its benchmark, the Russell 1000Â® Value Index. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Davis Global Fund 2025 Semi-Annual Review
+📝 Davis Global Fund posted a strong return of +14.12% in the first six months of 2025, outperforming its MSCI ACWI (All Country World Index) benchmark. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Davis International Fund 2025 Semi-Annual Review
+📝 Davis International Fund posted a strong return of +16.32% in the first six months of 2025, though this was below the performance of the MSCI ACWI (All Country World Index) ex US benchmark.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 ADX: Discount Narrows Further, Likely Limiting Outsized Gains Moving Forward
+📝 ADX's performance outpaced S&P 500 in share price returns, but future upside due to discount contraction is likely to be limited. Read more on ADX here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Does Apple Risk Falling Behind on AI?
+📝 Apple doesn't want to be left behind on AI as its competitors scale up their investments and poach talent, but its efforts to catch up might already be late. Executing its AI ambitions comes at a time when it reassesses its manufacturing operations in China.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Berkshire Hathaway: Load Up While The Market Ignores
+📝 Berkshire Hathaway is deploying its $344B cash pile into undervalued stocks like UnitedHealth, while trimming Apple and BAC. See why BRK.A stock is a buy.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 After Gaining $394 Billion in Market Cap in 3 Days, Is Apple Stock on Its Way to Joining Nvidia and Microsoft in the $4 Trillion Club?
+📝 Apple is closing in on $3.5 trillion in market cap, but it could take time to reach $4 trillion.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined
+📝 Zuckerberg is not exactly the most popular guy.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple's 10% Stock Pop: Time to Invest in the Technology Giant Embracing America?
+📝 The company is adding a new $100 billion investment in the United States.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Meet the British billionaire who still works harder than anyone he knows
+📝 British investment guru Jim Mellon is executive chairman of Agronomics which has £150m invested in ‘clean food’ start-ups and scaleups.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 5 Unstoppable "Ten Titans" Growth Stocks to Buy Now and Hold Through at Least 2030
+📝 These companies are playing a leading role in powering the S&P 500 to record highs.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Sam Altman, over bread rolls, explores life after GPT-5
+📝 At a dinner with reporters in San Francisco, OpenAI CEO Sam Altman spilled details on the company's ambitions beyond ChatGPT.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These Stocks Moved the Most Today: UnitedHealth, Applied Materials, Intel, Quantum Computing, Opendoor, and More
+📝 UnitedHealth jumps after Berkshire Hathaway discloses a stake in the health insurer, while Applied Materials tumbles following weak revenue guidance.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Trump Wants To Make Intel Great Again. What That Means For TSMC.
+📝 President Donald Trump signaled that he wants to buck up Intel to better compete with TSMC for U.S. chipmaking business.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Why UnitedHealth Stock Is Skyrocketing Today (Hint: Warren Buffett)
+📝 The Oracle of Omaha is driving UnitedHealth stock higher.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jim Cramer Defends Apple Inc. (AAPL) Against Elon Musk
+📝 We recently published 10 Stocks Jim Cramer Discussed As He Questioned Official Data. Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer recently discussed. Apple Inc. (NASDAQ:AAPL)’s shares have entered a period of strong performance after the firm smoothed over its frictions with the Trump administration. It announced an additional $100 billion investment in […]
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Netflix Stock: How To Find & Own America's Greatest Opportunities
+📝 One of the five recurring themes was the leisure and entertainment industry.  For example, in the late 1950s, Diners Club created America's first credit card, Brunswick's new automatic pinspotter set off a bowling boom, and Polaroid's new "picture-in-a-minute" cameras gave people instant photos.  Then in the '60s came all the color-TV stocks, Disney, motorhomes from Winnebago Industries, and McDonald's fast food in the '70s.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 5 Popular Stocks Still Worth Buying
+📝 Here's a look at some big-time companies on both ends of the spectrum that might still be worth buying.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The Cowboys Sold For $140 Million in 1989—They're Now Worth $12.8 Billion. Here's How That 9,000% Return Compares to Market Giants
+📝 The Dallas Cowboys sold for $140 million in February 1989, and are now worth $12.8 billion, per a new estimate. Here's a look at how that 9,000% return looks next to some of the biggest names on the market today, and at the time of the 1989 sale.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Billionaire Family Offices Join Berkshire’s UnitedHealth Bet
+📝 George Soros’ investment firm, the family office of a Swedish packaging dynasty and Michael Platt’s BlueCrest Capital Management all increased their stakes in UnitedHealth last quarter, according to 13F filings published Thursday.  The disclosed investments sent shares soaring and are a rare bright spot of late for UnitedHealth, which has largely struggled since one of its top executives was fatally shot in New York City in December.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Morgan Stanley Turns More Bullish on Apple as iPhone Builds Jump 8%
+📝 Strong June sell-through and lean inventories give September-quarter iPhone output a lift, led by the 16 and Pro Max
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Apple Adds Redesigned Blood Oxygen Feature After Legal Dispute
+📝 Update available for Apple Watch Series 9, Series 10 and Ultra 2 models
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Corning (GLW) Powers U.S. Solar Supply Chain with T1 Energy Partnership
+📝 Corning (GLW) recently announced a strategic commercial agreement with T1 Energy, focusing on the U.S. solar supply chain, which is aligned with national interests in energy self-sufficiency. Over the past quarter, Corning's stock price has risen by 36%, a move that likely benefited from multiple positive developments. The partnership with T1 Energy is significant, but other contributing events include the major expansion of Corning's partnership with Apple and their positive Q2 earnings...
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Intel’s Move Toward Nationalization Won’t Work—at Least for the Long Haul
+📝 Federal support could get the troubled chip maker over some hurdles, but risks great harm to the U.S. tech sector.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple's $500 Billion Investment Into America Just Got Larger: Does That Mean You Should Buy the Stock?
+📝 Investors are missing the big picture with Apple's business today.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Top Midday Stories: UnitedHealth Shares Soar on Berkshire Investment; White House Mulls Using Chips Act Funds to Take Intel Stake
+📝 The S&P 500 and Nasdaq were down in late-morning trading Friday, while the Dow Jones was up, as inve
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Duan Yongping's Strategic Moves: A Closer Look at Apple Inc. and Other Key Investments
+📝 Insights from the Second Quarter of 2025
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Apple CEO Tim Cook Says the Technology They’re Developing Will Be ‘One of the Most Profound Technologies of Our Lifetime’
+📝 Apple CEO Tim Cook highlights AI as transformative, unveiling Apple Intelligence features, emphasizing on-device processing, privacy, and expanded investments to integrate personalized generative AI across its ecosystem.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Trump says he will set tariffs on steel and semiconductor chips in coming weeks
+📝 ABOARD AIR FORCE ONE (Reuters) -U.S. President Donald Trump said on Friday he would announce tariffs on imports of steel and semiconductor chips in coming weeks.  "I'll be setting tariffs next week and the week after on steel and on, I would say, chips," Trump told reporters aboard Air Force One as he headed to a meeting with Russian President Vladimir Putin in Alaska.  He said the rates would be lower at the start to allow companies to build up domestic manufacturing in the U.S., rising sharply later, following a pattern he has also outlined for tariffs on pharmaceuticals.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Trump Says Semiconductor Tariffs Coming Soon, Could Reach 300%
+📝 “I’ll be setting tariffs next week and the week after, on steel and on, I would, say chips — chips and semiconductors, we’ll be setting sometime next week, week after,” Trump told reporters Friday aboard Air Force One en route to Alaska for a summit with Russian President Vladimir Putin.  It wasn’t clear if Trump misspoke about steel tariffs.  Both sectors have been under Commerce Department investigation since April, a prerequisite for Trump to impose tariffs on national security grounds.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Morgan Stanley turns more bullish on Apple, sees iPhone build boost
+📝 Investing.com -- Morgan Stanley said Apple could be “turning the corner” after stronger-than-expected iPhone sales drove an upward revision in September-quarter production plans.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Intel Stock Jumps on Report U.S. Government Could Take a Stake in the Company
+📝 The Trump administration is talking to Intel about taking a stake in the company to help expand its domestic manufacturing, according to The Wall Street Journal.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Cloud AI Update - Saudi Arabia's Cloud Market Poised For Rapid Growth
+📝 The Saudi Arabia Cloud Computing Market is poised for substantial growth, with a projected compound annual growth rate (CAGR) of 11.33% from 2025 to 2033, expected to reach US$ 38.23 billion by 2033. This expansion is driven by factors such as digital transformation, increased enterprise adoption of cloud services, and government initiatives under Vision 2030, which aim to modernize IT infrastructure and foster innovation. The market is also benefiting from the growth in smart city projects,...
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 ProShares Launches First ETF to Target 2x Daily Returns of Nasdaq-100 Top 30 Index
+📝 BETHESDA, Md., August 15, 2025--ProShares launches ProShares Ultra QQQ Top 30 (QQXL)—the first and only ETF designed to target 2x the daily returns of the Nasdaq-100 Top 30 Index.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Stocks to Watch Friday: UnitedHealth, Intel, Apple
+📝 ↗️ UnitedHealth (UNH): Warren Buffett’s Berkshire Hathaway (BRK.B) sold shares in Apple (AAPL) last quarter, while adding UnitedHealth to its portfolio. Shares in the embattled health insurer surged 10% in off-hours trading.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Berkshire Hathway goes big on United Healthcare
+📝 Today we're looking at Warren Buffett's Berkshire Hathaway (BRK-B)'s decision to sell Apple (AAPL) shares while adding United Health (UEEC) group shares.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 2 Dividend Stocks to Buy and Hold
+📝 These stocks look like they can weather almost any storm.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Applied Materials Posted Record Q3 Earnings -- Here's Why the Stock Tanked
+📝 Applied Materials Guides Lower and Stock Dumps Hard
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Dow Jones Futures Rise On Warren Buffett Buys, These Chip Losers; Amazon Offsets Hot Inflation
+📝 Dow Jones futures: Amazon helped offset hot inflation, but breadth was weak. Applied Materials dived late on guidance. UNH rallied on Warren Buffett.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Here Are My Top 2 Mining Stocks to Buy Now
+📝 Two mining companies -- one built on centuries of demand, and the other on America's industrial future.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Warren Buffett Bets On Nucor, UnitedHealth, Housing; Apple Stake Pared
+📝 Warren Buffett has added new positions in Nucor and UnitedHealth Group, while shedding more shares of Apple and Bank of America, the quarterly Form 13-F filed with the Securities and Exchange Commission revealed late yesterday.  Buffett also established a new position in homebuilder D.R. Horton, while adding a much bigger stake in Lennar.  Lamar Advertising, another new pickup for Berkshire Hathaway, also rose.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Poised for Explosive Growth: Is Your Portfolio Ready for This ETF?
+📝 Investing in the technology sector is a bold bet that today's largest companies will continue delivering outsized gains.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 T1 Energy Strikes Corning Partnership, Targets 6,000 US Jobs In Solar Push
+📝 T1 Energy (NYSE:TE) stock jumped on Friday after the company and Corning (NYSE:GLW) announced a strategic commercial agreement to strengthen the U.S. solar supply chain and scale advanced manufacturing of affordable, fast-to-deploy energy solutions. Under the deal, T1 will source hyper-pure polysilicon and solar wafers from Apple (NASDAQ:AAPL) supplier Corning's Michigan campus starting in the second half of 2026. Corning will deliver these wafers to T1's under-construction G2_Austin solar cell
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 These Stocks Are Moving the Most Today: UnitedHealth, Applied Materials, Intel, Quantum Computing, Nucor, and More
+📝 UnitedHealth jumps after Berkshire Hathaway discloses a stake in the health insurer, while Applied Materials tumbles following weak revenue guidance.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 How Much More Expensive 3 Apple Products Might be Due to Trump’s Tariffs
+📝 Here are popular Apple products that may become more expensive for U.S. buyers if tariffs on China return in full force.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 These Were the 5 Biggest Companies in 2019, and Here Are the 5 Biggest Companies Now
+📝 Tech stocks have dominated in recent years, with one stock rocketing 4,000% since 2019.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Trump Says Tariff Rate on Semiconductors Could Reach 300%. Nvidia and AMD Stocks Fall.
+📝 Trump Says Tariff Rate on Semiconductors Could Reach 300%. Nvidia and AMD Stocks Fall.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 The Buffett effect: about 190 Dow points
+📝 The Buffett effect: about 190 Dow points
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid
+📝 The Oracle of Omaha's investing strategies have stood the test of time.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 3 Things Apple Investors Should Know Following a Recent Trump Announcement
+📝 CEO Tim Cook took part in a White House press event to tout Apple's investments in its domestic manufacturing footprint.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Warren Buffett’s Berkshire Further Pares Stake in Apple, Adds UnitedHealth Position
+📝 Warren Buffett’s Berkshire Further Pares Stake in Apple, Adds UnitedHealth Position
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Intel: Trump Making U.S. Chipmaking Great Again?
+📝 Intel Corporation makes a potential comeback with Trump support, positive catalysts, and growth prospects. See why INTC is poised for a short-to-mid-term rebound.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple To Reintroduce Blood Oxygen Feature On Select Watches Following Customs Ruling
+📝 Apple Inc. (NASDAQ:AAPL) will introduce a redesigned Blood Oxygen feature for some Apple Watch Series 9, Series 10, and Apple Watch Ultra 2 users through an iPhone and Apple Watch software update later on Thursday. Users with these models in the U.S. who currently do not have the Blood Oxygen feature will have access to the redesigned Blood Oxygen feature by updating their paired iPhone to iOS 18.6.1 and their Apple Watch to watchOS 11.6.1. Following this update, sensor data from the Blood Oxyge
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 BNY Mellon Global Equity Income Fund Q2 2025 Commentary
+📝 BNY Mellon Global Equity Income Fund underperformed its benchmark index, the FTSE World Index, during the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 'Some People Said They Lost Their Life Savings'—Apple Co-Founder Steve Wozniak Is Still Fighting YouTube Over A 2020 Bitcoin Scam
+📝 Apple (NASDAQ:AAPL) co-founder Steve Wozniak is still trying to get YouTube to take responsibility for a 2020 Bitcoin scam. "Some people said they lost their life savings," Wozniak said on a recent CBS "Sunday Morning" segment, disclosing that he was ...
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Freckie Capital Unveils NAT Intelligent Strategy System, Redefining the Future of Wealth Management
+📝 British fintech innovator Freckie Capital today announced the official launch of its flagship platform, the NAT Intelligent Strategy System, alongside an ambitious global expansion initiative. Designed to democratize access to professional-grade investing, the NAT system represents a fundamental shift away from traditional, advisor-driven finance toward a transparent, logic-based, and user-controlled model.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Nvidia Stock Edges Up. Foxconn Has Good News on AI Server Demand.
+📝 Nvidia  stock inched up Thursday as its partner Foxconn sent more signs of strong demand for artificial-intelligence infrastructure.  The stock fell 0.9% on Wednesday and seems unlikely to move significantly before the company’s earnings report on Aug. 27.  In an statement, Nvidia said the report was incorrect and Rubin remains on track.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple, Klarna, JD.com: Trending Tickers
+📝 Apple (AAPL) announced its blood oxygen monitoring feature will return to some Apple Watch Series 9, Series 10, and Apple Watch Ultra 2 users. The feature was removed from some watches following a legal dispute with Masimo, which alleged patent infringement. Klarna (KLAR.PVT) reported a $53 million second quarter net loss, in part due to a $24 million restructuring charge and setting aside more reserves for potential loan defaults. It grew its user base to 111 million. JD.com (JD) topped revenue estimates, but profits took a hit as the company ramped up spending to expand into meal delivery and fast commerce. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Apple Ramps Up AI Push With Robots, Foldables, and Lifelike Siri
+📝 Bloomberg says the tech giant is prepping a blockbuster lineup of AI-driven devices as shares rally
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Big Tech’s AI Rally Remains Strong. The Economy Can Chug Along Even Without It.
+📝 Big Tech’s AI Rally Remains Strong. The Economy Can Chug Along Even Without It.
+📊 Sentiment: 0.60
+--------------------------------------------------
+📰 The TopBrand 2025 "Top 500 Global Brands list" has been released, with Microsoft ranking first.
+📝 The 19th China Brand Festival has been successfully held in Shenzhen from August 7–11, 2025. This year's theme is "AI and Global Expansion." A total of 10,000 guests have been gathered in the city of innovation to participate in parallel forums, the Brand Expo, the Entrepreneurs' Sports Games, Brand Leaders Face-to-Face sessions, and other events. More than 2,000 people attended the opening ceremony.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Stocks Pare Earlier Declines. Tech Is Doing the Heavy Lifting.
+📝 Not even a hot inflation report could hold down the Nasdaq for too long. The tech-heavy index was moving in and out of positive territory after opening lower. The S&P 500 was also on the rebound, though it was still down 0.
+📊 Sentiment: 0.25
+--------------------------------------------------
+📰 Memecoins are fusing with popular culture and their influence will grow, says crypto pioneer Olaf Carlson-Wee
+📝 Crypto is going mainstream—what the next 5 years will look like.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple’s blood oxygen monitoring returns to its latest Apple Watches
+📝 The change doesn’t affect previously sold models with the original version of the feature or units bought outside the U.S.
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Apple Watch Gets Blood Oxygen Feature Back
+📝 Apple Watch Gets Blood Oxygen Feature Back
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Apple to bring blood oxygen feature to some US watches with software update
+📝 SAN FRANCISCO (Reuters) -Apple will bring a blood oxygen measurement feature to some of its watch models via a software update after receiving approval from the U.S. government amid a protracted legal dispute over the technology, it said on Thursday.  The move will allow users of Apple Watch Series 9, Series 10, and Apple Watch Ultra 2 in the United States to view their blood oxygen levels on a paired iPhone.  It comes after years of legal wrangling with Irvine, California-based Masimo, which has accused Apple of hiring its employees and stealing its pulse oximetry technology after discussing a potential collaboration.
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Kartoon Studios Delivers Fifth Consecutive Quarter of Revenue Growth; Q2 Revenue Surges 23% Year-Over-Year, Including Strong Streaming Performance and Operational Efficiency
+📝 G&A Expenses Fall Double Digits as Company Moves Toward Profitability in 2025 Kartoon Channel Streaming Service is Top Rated Children’s Streaming App in Apple App Store; FAST Views Jump 221% Year-Over-Year Kartoon Channel SVOD Grows for 7th Consecutive Month; Wins Amazon Operational Excellence Award Mainframe Studios Revenue Climbs 44% Year-Over-Year First Showing of ‘Hundred Acre Wood/Winnie & Friends’ Set for December 24, 2025 BEVERLY HILLS, Calif., Aug. 14, 2025 (GLOBE NEWSWIRE) -- Kartoon St
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Qorvo: The Defense Angle No One Sees
+📝 Discover Qorvo's potential in defense & aerospace amid rising US defense spending. Learn why QRVO stock offers value despite near-term challenges.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 The 7 worst investment decisions beginners can make
+📝 New investors should avoid these seven mistakes.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 CVS Advances Digital Efforts to Simplify Healthcare Experience
+📝 CVS Health commits $20B to build an open health platform, joining tech giants in a push to streamline patient care access nationwide.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Why the Google Antitrust Ruling Could Deal a Blow to Apple's Profits
+📝 An upcoming ruling in the case could severely affect a key high-margin revenue stream for the iPhone maker.
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Warren Buffett's Biggest Bet: Can Apple’s Recovery Boost Berkshire Hathaway Shares, Too?
+📝 Warren Buffett’s biggest stock position has been struggling in 2025, but that’s starting to change. Here’s how the AAPL story ties into Berkshire’s fortunes.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Apple's Hidden Growth Engine Surges
+📝 Apple stock has a lot going for it. Learn how the iPhone maker is generating revenue growth and keeping its customers dependent on its ecosystem.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Kodak’s Troubles Hold a Lesson for the AI Age
+📝 Kodak’s Troubles Hold a Lesson for the AI Age
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 BNY Mellon Appreciation Fund Q2 2025 Commentary
+📝 The BNY Mellon Appreciation Fund underperformed the S&P 500 Index in the second quarter of 2025. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Should You Buy, Sell, or Hold Block Stock After Its Post-Earnings Pop?
+📝 Block stock is down more than 70% from all-time highs despite its recent earnings pop. However, XYZ stock remains a top investment given its cheap valuation.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Warren Buffett's New Secret Stock Pick May Be Revealed
+📝 Warren Buffett may be set to reveal his latest under-the-radar stock purchase on Thursday afternoon, when Berkshire Hathaway is expected to file Form 13-F with the Securities and Exchange Commission.  The quarterly report showing Buffett's equity holdings, including Apple and Bank of America is due within 45 days from the end of the quarter.  Berkshire Hathaway's most recent 13-F filing on May 15 included a mention that the company omitted one or more holdings from its Q1 report "for which it is requesting confidential treatment" from the SEC.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 UPRO: Benefits And Risks Of The 3x Leveraged ETF
+📝 Maximize gains with UPRO, a 3x leveraged S&P 500 ETF ideal for active traders. Learn its risks, strategies, and why it's not suited for long-term investing.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Nvidia Stock Rally Pauses. Foxconn Has Good News on AI Server Demand.
+📝 Nvidia  stock was edging down early Thursday but there were further signs of strong demand for artificial-intelligence infrastructure from its partner Foxconn.  Nvidia shares were slipping 0.1% at $181.43 in premarket trading.  Nvidia on Wednesday pushed back against an analyst report suggesting the production of its next-generation Rubin hardware is being delayed to better match rival chips from  Advanced Micro Devices  Nvidia said the report was incorrect and Rubin remains on track, in an emailed statement.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Gimme Credit: Corporate Bonds Stay Strong as U.S. Tariffs and Consumer Caution Test Market
+📝 Gimme Credit's latest research shows that leading U.S. corporate issuers are holding firm against escalating tariffs and increasingly cautious consumer spending. Strong balance sheets, diversified operations, and product innovation are proving key to credit stability amid macro volatility.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 EU economic growth slows to 0.2% in second quarter
+📝 Comparatively, the US grew 0.7% and the UK grew 0.3%, figures show.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Foxconn Profit Beats on Solid AI Hardware Sales
+📝 The business segment that includes AI servers became Foxconn’s top revenue contributor for the first time, overtaking the sector that includes smartphones.
+📊 Sentiment: 0.50
+--------------------------------------------------
+📰 The Best Trillion-Dollar Stock to Invest $1,000 in Right Now
+📝 There are 10 trillion-dollar companies right now, but this one looks like an excellent value.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Nvidia Partner Hon Hai Expects AI Sales to Double as Phones Wane
+📝 Hon Hai, which assembles Nvidia Corp. servers and Apple Inc. gadgets, posted a better-than-projected 27% rise in net income in the June quarter.  It predicted a 170% rise in revenue from servers made for artificial intelligence tasks during the current three-month period.
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 AI Development Is Accelerating: 1 Vanguard ETF to Buy Right Now
+📝 This Vanguard ETF captures most of the major themes in AI development.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 1 Reason to Buy the Vanguard 500 Index (VFIAX) Index Fund Admiral Shares
+📝 Diversification can reduce your risk.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 1 Monster Growth Stock to Buy Now -- Its Technology Could Replace the Smartphone (Hint: Not Apple)
+📝 Meta Platforms not only has a strong presence in digital advertising, but also has an early lead in the smart glasses market.
+📊 Sentiment: 0.20
+--------------------------------------------------
+📰 Cirrus Logic: Why The Earnings Beat Did Not Lift The Stock Over The Hump
+📝 Cirrus Logic surpassed expectations with its latest quarterly report, but the outlook calls for growth to slow down. Learn why CRUS stock is a Hold.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Not All Value Indexes Are Created Equal: Russell Vs. S&P
+📝 As of August 2025, theÂ Russell 1000 Value IndexÂ outperformed theÂ S&P 500 Value Index by 2.5% year-to-date, driven largely by its exposure to companies absent from the S&P benchmark.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These stocks were pushing the Dow toward 45,000 and maybe a record
+📝 While they may not be the ones you might expect, they have one thing in common.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Surprising Google Chrome bid upends Apple AI rumors
+📝 The latest twist in Google's antitrust drama throws a monkey wrench into Apple reports.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 Apple's AI Comeback Plans Include Robots, Lifelike Siri
+📝 Apple Inc. is plotting its artificial intelligence comeback with an ambitious slate of new devices, including robots, a lifelike version of Siri, a smart speaker with a display and home-security cameras. Bloomberg's Mark Gurman speaks with Romaine Bostick and Matt Miller on "The Close" about Apple's next inventions.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Foxconn sees robust AI demand continuing after Q2 profit tops forecast
+📝 TAIPEI (Reuters) -Foxconn expects higher third-quarter revenue, it said on Thursday, on robust demand for artificial intelligence servers, which helped the world's largest contract electronics maker report a forecast-beating 27% increase in second-quarter profit.  Foxconn said it should see significant year-on-year revenue growth in the third quarter, with AI server revenue expected to leap more than 170% year-on-year, though it also warned on uncertainty from U.S. tariffs.  Nvidia's biggest server maker and Apple's top iPhone assembler has been riding a data centre boom, as cloud computing firms such as Amazon, Microsoft and Alphabet's Google spend billions of dollars to expand their AI infrastructure and research capacity.
+📊 Sentiment: 0.70
+--------------------------------------------------
+📰 Newsweek and Plant-A Insights Group Announce America’s Greatest Companies 2025
+📝 The Recognition Celebrates 650 U.S. Businesses Setting the Standard for Performance, Innovation, and ImpactNEW YORK, Aug. 13, 2025 (GLOBE NEWSWIRE) -- Newsweek, in collaboration with Plant-A Insights Group, proudly presents the 2025 edition of America’s Greatest Companies, recognizing 650 standout organizations that are shaping the future of business in the United States. The list highlights companies that are excelling in financial strength, employee engagement, innovation, and sustainability.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Elon Musk broadens his long-running feud with OpenAI’s Sam Altman by bringing in a third party: Apple
+📝 Musk is unhappy with how Apple is promoting ChatGPT, a rival to his own Grok.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Amazon same-day delivery, Apple's AI, Centrus: Trending Tickers
+📝 Amazon (AMZN) is expanding its same-day grocery delivery offerings. Apple (AAPL) will reportedly unveil new artificial intelligence (AI) products, according to Bloomberg reports. Centrus Energy (LEU) is offering $650 million in convertible notes, which the uranium supplier plans to use to build new production. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Jim Cramer In AECOM: “I’ve Been Waiting for an Opportunity”
+📝 AECOM (NYSE:ACM) is one of the stocks Jim Cramer commented on. Cramer commented that he wished that the company stock “had just cooled off for a second,” as he said: “But the downgrade also temporarily stopped the legendary rally in the big three of engineering construction, write these down: AECOM, Jacobs Solutions, and Quanta Services. […]
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Jim Cramer Says Apple is “Run by One of the Greatest Value Creators on Earth”
+📝 Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer commented on. During the episode, Cramer said that it is a company with the “best products on Earth,” as he commented: “I kept hearing that Cook and the president didn’t get along because he wouldn’t commit to making the iPhone in the United States. The […]
+📊 Sentiment: 0.95
+--------------------------------------------------
+📰 Apple (AAPL) Upgrading Siri with AI-Powered Apple Intent
+📝 Apple Inc. (NASDAQ:AAPL) is one of the tech stocks with strong return on equity. On August 10, it was announced that the company is working on a significant upgrade to its AI voice control, which will change how people use iPhones. Reports indicate that the company is working on an upgraded version of App Intents […]
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Apple's New Plan for Artificial Intelligence
+📝 Apple Inc. is planning a comeback in artificial intelligence with new devices, including robots, a smart speaker with a display, and home-security cameras, according to people with knowledge of the matter. Mark Gurman has the exclusive details on Bloomberg Businessweek.
+📊 Sentiment: 0.85
+--------------------------------------------------
+📰 Melius Raises Apple (AAPL) PT to $260, Cites Upcoming iPhone Cycles
+📝 Apple Inc. (NASDAQ:AAPL) is one of the 10 AI Stocks Making Waves on Wall Street. On August 8, Melius analyst Ben Reitzes raised the price target on the stock to $260.00 (from $240.00) while maintaining a Buy rating. The firm is optimistic about the upcoming iPhone product cycles. It also believes that Siri AI concerns are overblown. […]
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Apple Plots Expansion Into AI Robots, Home Security and Smart Displays
+📝 New cameras will anchor an Apple security system that can automate household functions.  The approach should help make Apple’s product ecosystem stickier with consumers, said the people, who asked not to be identified because the initiatives haven’t been announced.  Apple shares climbed to a session high on Wednesday after Bloomberg News reported on the plans.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Perplexity's Google Chrome offer may be a PR stunt aimed at Apple
+📝 Perplexity (PEAI.PVT) is offering $34.5 billion to buy Alphabet's (GOOG, GOOGL) Google Chrome business. Alphabet could be forced to sell Google Chrome as part of an antitrust resolution, but Wall Street seems to be dismissing Perplexity as a serious potential Chrome buyer, given that the reported offer is greater than the artificial intelligence (AI) startup's $18 billion valuation. Chamber of Progress CEO and founder, Adam Kovacevich, and Freedom Capital Markets managing director, Paul Meeks, join Market Catalysts to discuss. Kovacevich says Perplexity is "selling headlines, not buying browsers," while Meeks adds that this may be part of the company's rumored strategy to sell itself to Apple (AAPL). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+📊 Sentiment: 0.40
+--------------------------------------------------
+📰 Apple Stock Is Gaining Momentum, Is AAPL Stock a Buy?
+📝 Despite the macro challenges, Apple’s products see solid demand, and its services business continues to post robust growth.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Apple faces Musk's wrath in explosive AI bias allegations
+📝 Elon Musk says Apple is tilting the App Store in favor of OpenAI’s ChatGPT, and he’s threatening "immediate" legal action. Inside the escalating feud that could reshape AI competition.
+📊 Sentiment: -0.70
+--------------------------------------------------
+📰 Stocks Can Climb the ‘Wall of Worry’ as Long as These Anchors Remain in Place
+📝 As long as unemployment remains low and inflation isn’t high enough to deter the Fed, markets can continue to climb the wall of worry, according to one investment strategist.  A key driver of the rally has been the megacap tech stocks and their leadership in artificial intelligence.  Linchpins of the rally will get tested in coming weeks as Nvidia reports results and the government releases August jobs data.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 As Elon Musk Lashes Out at Apple, How Should You Play TSLA and AAPL Stock?
+📝 Billionaire Elon Musk threatens to sue Apple for antitrust violations. Here’s why his legal action would be a headwind for both AAPL shares and Tesla stock.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Hexnode Announces HexCon25: The Annual User Conference Set for September 17–18, 2025, in Atlanta
+📝 SAN FRANCISCO, August 13, 2025--Hexnode, the enterprise software division of Mitsogo Inc., announces HexCon25, its flagship annual user conference.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes
+📝 Exclusive: A dating gossip app for men exposed thousands of users' personal data, including scans of driver's licenses. The app's developer, Xavier Lampkin, won't say if he plans to notify affected users about the app's security lapse.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple Devices Propel RI Availability to Over 5B Worldwide - ReelTime’s Reel Intelligence Leads in Potential Reach, Capability, and Sustainability
+📝 ReelTime's Reel Intelligence "RI" Adds Apple's Billion-Plus Devices to ReelTime's Potential Reach, Joining 2.8 Billion Android Devices in Unprecedented AI Rollout Delivering High-Performance AI Without Data Centers. BOTHELL, WASHINGTON / ACCESS Newswire ...
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps
+📝 The response comes after Musk threatened to sue Apple via xAI, claiming the iPhone maker was “behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store.”
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 APLY: Extreme Yield ETF Based On Apple Options
+📝 Discover the YieldMaxâ¢ AAPL ETF: An income-focused strategy offering high monthly distributions and indirect AAPL exposure.
+📊 Sentiment: 0.20
+--------------------------------------------------
+📰 Nvidia and Microsoft Stocks Have Reached a $4 Trillion Valuation. Is Apple Next?
+📝 Is Apple Falling behind, or will it come from behind?
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Google Stock: Wall Street Awaits Judge's Ruling On Remedies In Search Antitrust Case
+📝 A federal judge's expected ruling in the Alphabet internet search antitrust case has been an overhang on Google stock.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Why I finally left Spotify
+📝 Spotify's dependence on algorithmic recommendations has gotten too suffocating.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Macquarie Core Equity Fund Q2 2025 Commentary
+📝 For 2Q25, Macquarie Core Equity Fund Institutional Class shares outperformed the Fund's benchmark, the S&P 500 Index.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Stock Market Today: Futures register small rise after S&P, Nasdaq set record
+📝 Markets seek to build on records; Russell 2000's 2.9% rally
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 GE Appliances to invest over $3 billion in US manufacturing push
+📝 Global firms have been increasing their investments and presence in the United States after President Donald Trump pushed companies across sectors, including Apple and Ford, to produce goods within the country and generate jobs.  The GE Appliances investment will create 1,000 jobs in five states and is aimed at expanding the company's air conditioning and water heating portfolio, increasing production output and modernizing its 11 U.S. manufacturing plants with new automation and capital equipment, the home appliances maker said.  Earlier this year, peer Carrier Global also said it planned to invest $1 billion over five years in the U.S.
+📊 Sentiment: 0.30
+--------------------------------------------------
+📰 Tesla Stock Rises for 5th Straight Day as Elon Musk Threatens Legal Action Against Apple
+📝 A brewing beef between Elon Musk’s artificial-intelligence company xAI and Apple has become a watch item for Tesla investors.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 AI Weekly: Nvidia's future in China and $1 AI offers
+📝 STORY: From what next for Nvidia sales in China to $1 AI offers, this is AI Weekly. U.S. President Donald Trump on Monday suggested he might allow sales of Nvidia’s next-gen AI chips in China. That’s despite deep-seated fears that China could harness U.S. AI capabilities for its military. Trump said the chips, if sold, would be a scaled-down version.Staying with Washington, firm Anthropic has offered AI chatbot Claude to the U.S. government for $1. The Amazon-backed company joins a growing list of startups proposing lucrative deals to win federal contracts. ChatGPT-owner OpenAI made a similar offer last week of $1 per federal agency for the next year.Elon Musk announced on Monday his AI startup xAI would take legal action against Apple. He accused the iPhone maker of breaching antitrust regulations in managing App Store rankings…Claiming the tech giant has made it impossible for any AI company besides OpenAI to reach #1 in the App Store.Perplexity AI made a $34.5 billion all-cash offer for Alphabet's Chrome browser on Tuesday.The bid, which was unsolicited, is far above its own valuation.The startup is reaching for the browser's billions of users pivotal to the AI search race.And Getty Images has filed a landmark lawsuit against Stability AI in London. Getty’s accused the AI company of using its images without permission to “train” its system Stable Diffusion. Stability denies infringing Getty’s rights.  Lawyers say this case will have a major impact on AI copyright law.
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Enough Is Enough: AI Is Driving Us To Sell Our S&P 500 Position
+📝 AI-driven hype boosts S&P 500 concentration, but stretched valuations and risks lead to a Sell rating.
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Meet the Monster Stock That Continues to Crush the Market
+📝 The market is rebounding, but Dutch Bros is rebounding higher.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 My Dividend Stock Portfolio: New July Dividend Record - 100 Holdings With 12 Buys
+📝 See here for more on July's investment insights: record-breaking dividends, high-yield BDCs, and strategies for steady income growth.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Don’t Fret About Warren Buffett. Berkshire Stock Is Still a Buy.
+📝 It is understandable that many investors are struggling to imagine the financial world without Buffett. But it is silly to think he has failed to prepare his company for what comes next.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Wedbush Reaffirms ‘Outperform’ Rating on Apple Inc. (AAPL) with $270 PT
+📝 Apple Inc. (NASDAQ:AAPL) is included in our list of the 14 Best Warren Buffett Stocks to Invest in. On August 7, 2025, Apple Inc. (NASDAQ:AAPL) announced an additional $100 billion investment, raising its total domestic commitment to $600 billion over the next four years. This move follows the company’s February pledge of $500 billion and […]
+📊 Sentiment: 0.95
+--------------------------------------------------
+📰 AAPL Q2 Deep Dive: AI Investments, Tariff Pressures, and Product Upgrade Records
+📝 iPhone and iPad maker Apple (NASDAQ:AAPL) beat Wall Street’s revenue expectations in Q2 CY2025, with sales up 9.6% year on year to $94.04 billion. Its non-GAAP profit of $1.57 per share was 10.1% above analysts’ consensus estimates.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 5 Revealing Analyst Questions From Apple’s Q2 Earnings Call
+📝 Apple’s second quarter results exceeded Wall Street’s expectations for both revenue and non-GAAP profit, yet the market reacted negatively. Management attributed the quarter’s performance to strong global demand for iPhone 16, Mac upgrades, and double-digit Services growth. CEO Tim Cook emphasized that “growth accelerated in the vast majority of markets we track,” driven by robust upgraders in key products. However, management cited higher tariff-related costs and noted that a portion of demand
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Australian Court Rules Apple, Google Broke Competition Rules
+📝 Epic Games hails win as class actions move forward
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Socket Mobile Approved as Official My Number Card Reader Provider in Japan
+📝 Socket Mobile, a leading provider of data capture and delivery solutions, is pleased to announce that its SocketScan S370 and S550 readers have been officially approved by the Japanese government as certified My Number Card readers. Both products now appear on Japan's official list of eligible devices for accessing government services through the My Number Card program, an expansive and growing initiative designed to digitize citizen identification and enable secure access to public services.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 These 3 Companies Shattered Quarterly Records
+📝 In the Q2 cycle, several companies, including Apple, Eaton, and DoorDash, posted quarterly records in one way or another. Can the momentum sustain?
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Big Tech is driving the stock market to new records
+📝 An AI-infused rally is once again sending the S&P 500 to record highs.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Top Stock Picks for Week of August 11, 2025
+📝 A Tech Juggernaut That's a Steady Grower on Wall Street and a Gold Producer Benefitting From Rallying Gold Prices.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple, Tesla Investor Reacts to Musk's App Store Claims
+📝 Laffer Tengler Investments CEO and CIO Nancy Tengler says she doesn't think Elon Musk's accusations that Apple is favoring OpenAI will "end" the App Store. She talks about her outlook on Apple, Tesla and chip stocks with Caroline Hyde and Ed Ludlow on "Bloomberg Tech."
+📊 Sentiment: 0.20
+--------------------------------------------------
+📰 Musk Says Apple Favoring OpenAI on iPhone
+📝 Elon Musk, the founder of xAI, has accused Apple of favoring OpenAI on its App Store, and threatened legal action. Bloomberg's Kurt Wagner discusses this with Caroline Hyde and Ed Ludlow on "Bloomberg Tech."
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Microsoft’s $3.9 Trillion Empire: 3 Products You Use Without Realizing It
+📝 Here's a look at some of the ways you might be contributing to Microsoft's sprawling empire without even knowing it.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Musk Takes Fight With OpenAI to Apple Over Its App Store
+📝 Musk Takes Fight With OpenAI to Apple Over Its App Store
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Macnica Americas and Softron to Showcase Apple ProRes with ST 2110-22 on 100Gbps MEP100 Smart NIC at IBC2025
+📝 SOLANA BEACH, Calif., August 12, 2025--Macnica Americas, a global technology innovator of IP design, networking solutions and AI/IoT technologies, will team with Softron Media Services at IBC2025 to demonstrate Apple ProRes compressed video over ST 2110-22, combined with the macOS Sequoia (15+) and the Macnica 100Gbps MEP100 Smart NIC.
+📊 Sentiment: 0.65
+--------------------------------------------------
+📰 Family Safety Stock Life360 Surges As Parents Seek Peace Of Mind
+📝 Life360 stock jumped Tuesday after the family-tracking service reported better-than-expected second-quarter results late Monday.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Elon Musk Takes Aim at Apple Over App Store: 'Are You Playing Politics?'
+📝 The billionaire says Apple’s curated lists sideline Grok and X despite their top rankings in the App Store.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event
+📝 Dive into what we can expect from the Made by Google 2025 event, where the tech giant will debut its Pixel 10 lineup.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Mag 7 & AI: Playing for 'big gains' can also mean 'big losses'
+📝 The tech-heavy Nasdaq Composite (^IXIC) is on track to hit another fresh record high with "Magnificent Seven" names like Alphabet (GOOG, GOOGL) and Microsoft (MSFT) contributing to gains. Bianco Research president Jim Bianco, Yahoo Finance Senior Reporter Brooke DiPalma, and Yahoo Finance Senior Reporter Ines Ferré join Opening Bid with Yahoo Finance Executive Editor Brian Sozzi to discuss how to invest in the Mag 7 and other artificial intelligence (AI) plays like Palantir (PLTR), C3.ai (AI), and CoreWeave (CRWV). To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 3 Mutual Funds to Buy on the Ongoing Nasdaq Rally
+📝 Nasdaq's record highs and AI-fueled tech boom spotlight three top mutual funds delivering strong multi-year returns.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple Rises 9% in a Month: Buy, Sell or Hold the AAPL Stock?
+📝 AAPL's fiscal Q3 surge, fueled by Apple Intelligence growth and a $600B U.S. investment plan, offsets tariff headwinds.
+📊 Sentiment: 0.90
+--------------------------------------------------
+📰 Intel is still a hot mess: Opening Bid top takeaway
+📝 Intel remains a flawed company despite the stock rise today.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Elon Musk Threatens Legal Action Over Apple App Store Rankings
+📝 Elon says that APple is deliberately restricting promotion of both X and xAI.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 In a world of vibe coding startups, Uno Platform is targeting enterprise developers
+📝 And its finding customers and investors, including $2.54 million in seed funding.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Commentary: Trump is reviving crony capitalism
+📝 Nvidia, AMD, and other businesses seeking an edge are learning to do it Trump's way.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Top Midday Stories: Consumer Prices Rise 2.7% YoY in July; Chinese Officials Urge Local Companies to Avoid Using Nvidia's H20 Chips
+📝 All three major US stock indexes were up in late-morning trading Tuesday after a key inflation repor
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Tesla Stock Is Wobbling as Elon Musk Threatens Legal Action Against Apple
+📝 A brewing beef between Elon Musk’s artificial-intelligence company xAI and Apple has become a watch item for Tesla investors.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 SPOT Skyrockets 106% in a Year: How Should You Play the Stock?
+📝 Spotify grapples with ad execution issues, fierce Apple and Amazon rivalry, high valuation, and a weak earnings outlook.
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Saudi Arabia Online Gaming Market Growth and Competitive Analysis Report 2025-2033 Featuring Activision Blizzard, Apple, Capcom, Electronic Arts, Microsoft, Nintendo, Sony, Tencent
+📝 The Saudi Arabia Online Gaming Market is poised for robust expansion, expected to grow from US$ 1.77 million in 2024 to US$ 4.44 million by 2033, at a CAGR of 10.77%. Key growth drivers include increased internet penetration, youth demographics, and government initiatives under Vision 2030 focused on gaming and esports. The market offers diverse gaming experiences across multiple platforms such as mobile, PC, and console, while targeting various gamer types and age groups. However, challenges pe
+📊 Sentiment: 0.35
+--------------------------------------------------
+📰 AST Space, Celanese, Elon Musk threatens Apple: Trending Tickers
+📝 Market Catalysts host Julie Hyman takes a look at some of Tuesday morning's trending tickers and stories. Tesla (TSLA) CEO Elon Musk has accused Apple (AAPL) of favoring OpenAI (OPAI.PVT) over his company xAI (XAAI.PVT), threatening legal action over "antitrust violations." AST SpaceMobile (ASTS) stock is surging after the company laid out a plan to launch 45 to 60 satellites this year and next. Celanese (CE) stock is sinking after the company provided a weak profit forecast for the third quarter. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Trump Drives Markets These Days. Economic Data Take a Back Seat.
+📝 U.S. markets remained focused on Tuesday’s July inflation data, as investors track growing price pressures from tariffs into next month’s crucial Federal Reserve rate decision in Washington.  The same could be said for the domestic auto sector, which has found itself holding the short end of the global tariff stick following trade agreements with the U.K., Europe and Japan that effectively make it cheaper to build cars outside of North America and sell them in the U.S.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Apple has a new AI problem—this time from Elon Musk, who’s threatening ‘legal action’ if it doesn’t knock ChatGPT off the top of its App Store
+📝 Musk is threatening “legal action” if Apple doesn’t knock ChatGPT off the top of its App Store.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 In the time of tariffs, Nvidia and AMD cut unusual deals with Trump
+📝 Two chipmakers make revenue-sharing pledges, OpenAI reveals GPT-5 and AOL bids dial-up adieu
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Macquarie Balanced Fund Q2 2025 Commentary
+📝 For 2Q25, Macquarie Balanced Fund Institutional Class shares underperformed the Fund's equity benchmark, the S&P 500 Index.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 CoreWeave Stock Soars as JPMorgan Hikes Target Ahead of Earnings
+📝 CoreWeave Rockets Higher After Bullish JPMorgan Call
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Severance at 30,000 Feet: Award-Winning Apple Originals Now Playing on United
+📝 United today announced that full seasons of select Apple TV+ global hits will now be available for free on the airline's 130,000+ seatback screens and in the United app, including award-winning shows such as Severance, Shrinking, Ted Lasso, Slow Horses and Silo and more.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 5 Things to Know Before the Stock Market Opens
+📝 News of the day for August 12, 2025
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Tesla Stock Is Rising as Elon Musk Threatens Legal Action Against Apple
+📝 A brewing beef between Elon Musk’s artificial-intelligence company xAI and Apple has become a watch item for Tesla investors.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Intel Stock Gets a Boost from Trump Meeting. It Needs More for a Real Turnaround.
+📝 Intel was gaining with CEO Lip-Bu Tan out of President Donald Trump's firing line but there's a bigger prize to be won.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Market Chatter: Apple, Google Face Partial Setback in Epic Games Suit in Australia Court Ruling
+📝 Apple (AAPL) and Alphabet (GOOG, GOOGL) unit Google's Android had their respective smartphone app st
+📊 Sentiment: -0.50
+--------------------------------------------------
+📰 Options Flow Alert: Bulls Making Their Move in Apple Stock
+📝 Apple (AAPL) put in a huge bullish candle on Friday and the options flow suggests some traders are betting on a further upside.
+📊 Sentiment: 0.80
+--------------------------------------------------
+📰 Sports Technology Market to Reach $68.70 Billion by 2030, Driven by Innovation and Digital Integration
+📝 Delray Beach, FL, Aug. 12, 2025 (GLOBE NEWSWIRE) -- According to the new market research report "Sports Technology Market by Technology (Wearable, AR/VR, Smart Stadium, Sports & Stadium Analytics, Sports Camera, Building Automation, Smart Equipment, Smart Clothing, Crowd Management), Solution (AI-based, Conventional) - Global Forecast to 2030" The global sports technology market is expected to be valued at USD 34.25 billion in 2025 and is projected to reach USD 68.70 billion by 2030; it is expec
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 4 Big Stocks That Rich Investors Never Sell
+📝 When you catch lightning in a bottle, you may be tempted to cash in quickly, but rich people know that playing the long game can grow your wealth.
+📊 Sentiment: 0.75
+--------------------------------------------------
+📰 Musk’s xAI plans legal action against Apple over App Store practices
+📝 Musk's remarks come amid increasing scrutiny from regulators and competitors regarding Apple's control over its App Store.
+📊 Sentiment: -0.60
+--------------------------------------------------
+📰 Musk Threatens to Sue Apple for 'Unequivocal Antitrust Violation'
+📝 Elon Musk wrote on his X social media network late Monday that its parent company, xAI, "will take immediate legal action" against Apple for an alleged "antitrust violation" related to App Store rankings.
+📊 Sentiment: -0.70
+--------------------------------------------------
+📰 Why Apple may be caught in the latest crossfire between Musk and OpenAI’s Altman
+📝 Why Apple may be caught in the latest crossfire between Musk and OpenAI’s Altman
+📊 Sentiment: -0.25
+--------------------------------------------------
+📰 Epson Introduces New Home Cinema and Modern Workspace Projectors with Built-In Support for Apple AirPlay
+📝 As consumers look for large displays that are not only affordable, but versatile in adapting to different environments and viewing needs, Epson today announced four new projectors for home entertainment and modern workspaces. The lineup includes two models that work with Apple® AirPlay®1 and support screen mirroring with Miracast.2 As Epson's first retail projectors with built-in support for Apple AirPlay, these models allow for seamless streaming of videos, music, photos and more from an iPhone
+📊 Sentiment: 0.60
+--------------------------------------------------
+📰 Musk Accuses Apple of Favoring OpenAI on iPhone
+📝 Elon Musk accused Apple's app store of favoring OpenAI on Monday, saying Apple makes it impossible for anyone other than OpenAI to reach the top of the App Store charts. In a pinned post on his X account, Musk asked if Apple is "playing politics" by not highlighting his products. Ed Ludlow reports on Bloomberg Television.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 How deals with Apple and Trump’s Pentagon turned rare earth miner MP Materials into a red-hot stock
+📝 MP Materials aims to build a U.S. rare-earths-and-magnets supply chain that can eventually compete with China.
+📊 Sentiment: 0.20
+--------------------------------------------------
+📰 AST SpaceMobile Stock Soars After Earnings. Its Challenge to Musk’s SpaceX Is Ramping Up.
+📝 AST SpaceMobile Stock Soars After Earnings. Its Challenge to Musk’s SpaceX Is Ramping Up.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Norway’s $1.9 Trillion Fund Has Best Quarter Since 2023
+📝 Equities drove the results for the $1.9 trillion fund, at 8.45%, with unlisted infrastructure investments generating 8.1%, Norges Bank Investment Management said in a report on Tuesday.  The world’s largest wealth fund owns about 1.5% of listed stocks globally.  More than two thirds of the fund is in equities, all outside of Norway.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 AST SpaceMobile Stock Soars After Earnings. Its Challenge to Musk’s SpaceX Is Shaping Up.
+📝 AST SpaceMobile  stock was surging early Tuesday.  The satellite company’s ambition of challenging Elon Musk’s SpaceX looks to be closer to reality.  AST SpaceMobile stock was up 13% at $51.68 in premarket trading, having reported quarterly results after the market close on Monday.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Forget the White House Sideshow. Intel Must Decide What It Wants to Be.
+📝 Five months in and Lip-Bu Tan is already fighting for his job.  The identity question—whether Intel wants to be a chip designer, a manufacturer, or remain both of those things—was possible to gloss over in Tan’s early days as chief executive.  President Trump last week took the unprecedented step of publicly calling for Tan to resign.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Musk Accuses Apple of Unfairly Favoring OpenAI on iPhone
+📝 The billionaire founder of xAI Holdings, which now houses the Grok artificial intelligence team and X social network, said Apple makes it impossible for anyone other than OpenAI to reach the top of the App Store charts, a sought-after global spotlight for app developers.  In a pinned post on his X account, Musk asked if Apple is “playing politics” by not highlighting his products.
+📊 Sentiment: -0.30
+--------------------------------------------------
+📰 Musk threatens to sue Apple over AI snub
+📝 Elon Musk has threatened to sue Apple over claims the company is refusing to put his chatbot at the top of its iPhone download charts.
+📊 Sentiment: -0.20
+--------------------------------------------------
+📰 Voya Corporate Leaders Trust Fund B Q2 2025 Commentary
+📝 Emerging markets rebounded in the second quarter after April's post-Liberation DayÂ volatility, ending above the February peak. Read more here.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 GARP: Quality Can Help Flourish In Bullish Conditions
+📝 
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Wall Street Breakfast Podcast: Trump Picks EJ Antoni For BLS Top Job
+📝 Trump names EJ Antoni to lead Bureau of Labor Statistics. Musk threatens legal action against Apple over alleged antitrust violations. GM plans renewed push into driverless personal vehicles
+📊 Sentiment: -0.75
+--------------------------------------------------
+📰 Trump Met With Intel CEO, Says Tan Will Bring ‘Suggestions’ Next Week
+📝 Trump Met With Intel CEO, Says Tan Will Bring ‘Suggestions’ Next Week
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Big Tech Pledged Billions for New Housing. The Results Aren’t Living Up to the Hype.
+📝 Big Tech Pledged Billions for New Housing. The Results Aren’t Living Up to the Hype.
+📊 Sentiment: 2.00
+--------------------------------------------------
+📰 Trump's 'pay-to-play' deals blur line between govt. & free market
+📝 It seems "pay to play" may be the name of the game for corporate leaders under the second Trump administration. Nvidia (NVDA) and, reportedly, AMD (AMD), will give the US government 15% of their China chip sales. The artificial intelligence (AI) chipmaker deal comes after the Trump administration secured an additional $100 billion investment from Apple (AAPL), which seemed to mitigate the president's tariff threats. Harvard University executive fellow and former Medtronic CEO Bill George and Pangaea Policy founder Terry Haines examine what the deal signals about the state of corporate America under Trump and how the president is blurring the lines between government and free-market capitalism. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+📊 Sentiment: 0.70
+--------------------------------------------------
+
+🧮 Sentiment average: 0.19
+📊 Fundamentals score: 0.50
+🗣️ Analyst score: 0.63
+🔗Combined score: 0.37
+
+⏸️ Hold
