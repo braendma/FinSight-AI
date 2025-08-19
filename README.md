@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔮 Ideal Use Cases
+## Ideal Use Cases
 
 - Day traders seeking instant sentiment snapshots  
 - Long-term investors validating fundamentals before entry  
