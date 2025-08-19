@@ -1,4 +1,4 @@
-# FinSight-AI
+# FinAIc - Splitted information. Sharp decisions. 
 
 AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
