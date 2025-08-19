@@ -1,6 +1,6 @@
 # FinAIc - Splintered information. Sharp decisions. 
 
-AI-Powered Signal Engine Built from a Mosaic of Market Sentiment & Financial Data
+AI-Powered Stock Insight Toolkit — Assembling a Mosaic of Market Signals
 
 ---
 
