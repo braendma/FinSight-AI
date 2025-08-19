@@ -1,6 +1,6 @@
 # FinAIc - Splintered information. Sharp decisions. 
 
-AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
+AI-Powered Signal Engine Built from a Mosaic of Market Sentiment & Financial Data
 
 ---
 
