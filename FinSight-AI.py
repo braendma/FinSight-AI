@@ -122,7 +122,7 @@ def recommend_combined(sentiment_scores_filtered: list[float], fundamental_score
 #  Save Results to File
 def save_results(symbol, start_date, end_date, news_items, sentiment_scores_all, sentiment_scores_filtered, f_score, analyst_score, recommendation, filename):
     with open(filename, "w", encoding="utf-8") as f:
-        f.write(f"🔎 Analyse für {symbol} von {start_date} bis {end_date}\n\n")
+        f.write(f"🔎 Analyze {symbol} from {start_date} to {end_date}\n\n")
 
         for i, item in enumerate(news_items):
             headline = item.get("headline", "")
