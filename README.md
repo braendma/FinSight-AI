@@ -88,8 +88,11 @@ pip install -r requirements.txt
    ```
 
 5. Check your output files in the project folder:  
-   - `analyse_ergebnis_<symbol>_<enddate>.txt`  
-   - `gesamtanalyse_<enddate>.xlsx`  
+   - `analysis_result_<symbol>_<enddate>.txt`  
+   - `full_analysis_<enddate>.xlsx`
+   The example files follow the naming convention shown above  
+and can be found in the main repository folder.
+ 
 
 ---
 
