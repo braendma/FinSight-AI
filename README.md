@@ -6,15 +6,15 @@ AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
 ## 📋 Table of Contents
 
-- [Overview](##📌-overview)  
-- [Features](##🚀-features)  
-- [Tech Stack](##🛠-tech-stack)  
-- [Installation](##📥-installation)  
-- [Usage](##⚡-usage)  
-- [Example Output](##📈-example-output)  
-- [Ideal Use Cases](##🔮-ideal-use-cases)  
-- [License](##📜-license)  
-- [Contributing](##💡-contributing)  
+- [Overview](#📌-overview)  
+- [Features](#🚀-features)  
+- [Tech Stack](#🛠-tech-stack)  
+- [Installation](#📥-installation)  
+- [Usage](#⚡-usage)  
+- [Example Output](#📈-example-output)  
+- [Ideal Use Cases](#🔮-ideal-use-cases)  
+- [License](#📜-license)  
+- [Contributing](#💡-contributing)  
 
 ---
 
