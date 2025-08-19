@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # API-Key & Parameter
-API_KEY = "YOUR FINNHUB API KEY HERE"
+API_KEY = "YOUR FINNHUB API HERE"
 
 
 # Dynamically generate the system prompt
@@ -133,11 +133,11 @@ def save_results(symbol, start_date, end_date, news_items, sentiment_scores_all,
         sentiment_avg = sum(sentiment_scores_filtered) / len(sentiment_scores_filtered) if sentiment_scores_filtered else 0
         combined_score = sentiment_avg * 0.5 + f_score * 0.3 + analyst_score * 0.2
 
-        f.write(f"\n🧮 Sentiment-Durchschnitt: {sentiment_avg:.2f}\n")
-        f.write(f"📊 Fundamentaldaten-Score: {f_score:.2f}\n")
-        f.write(f"🗣️ Analysten-Score: {analyst_score:.2f}\n")
-        f.write(f"🔗 Kombinierter Score: {combined_score:.2f}\n")
-        f.write(f"\n✅ Empfehlung: {recommendation}\n")
+        f.write(f"\n🧮 Sentiment average: {sentiment_avg:.2f}\n")
+        f.write(f"📊 Fundamentals score: {f_score:.2f}\n")
+        f.write(f"🗣️ Analyst score: {analyst_score:.2f}\n")
+        f.write(f"🔗Combined score: {combined_score:.2f}\n")
+        f.write(f"\n{recommendation}\n")
 
 
 # Multi-Symbol Main Function
