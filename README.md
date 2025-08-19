@@ -1,4 +1,4 @@
-# FinAIc - Splitted information. Sharp decisions. 
+# FinAIc - Splintered information. Sharp decisions. 
 
 AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
@@ -20,7 +20,7 @@ AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
 ## Overview
 
-FinSight-AI is a Python toolkit that blends AI-driven sentiment analysis, fundamental data scoring, and analyst recommendation trends to produce clear buy/hold/sell signals.  
+FinAIc is a Python toolkit that blends AI-driven sentiment analysis, fundamental data scoring, and analyst recommendation trends to produce clear buy/hold/sell signals.  
 
 Designed for traders, investors, and quants, it taps real-time market news, key financial ratios, and aggregated Wall Street ratings to deliver actionable intelligence.  
 
@@ -66,8 +66,8 @@ This codebase has been reviewed and optimized with AI assistance for readability
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/FinSight-AI.git
-cd FinSight-AI
+git clone https://github.com/<your-username>/FinAIc.git
+cd FinAIc
 
 # Install dependencies
 pip install -r requirements.txt
