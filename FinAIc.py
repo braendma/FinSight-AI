@@ -229,8 +229,8 @@ def main_multi(symbols: list[str], start_date: str, end_date: str):
 # Run for different lists
 if __name__ == "__main__":
     
-    START_DATE = "2025-07-11"
-    END_DATE = "2025-08-11"
+    START_DATE = "2025-07-19"
+    END_DATE = "2025-08-19"
     
     NASDAQ_LIST = [
     "AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "TSLA", "AVGO", "NFLX",
