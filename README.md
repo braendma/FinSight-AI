@@ -18,7 +18,7 @@ AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
 ---
 
-## 📌 Overview
+## Overview
 
 FinSight-AI is a Python toolkit that blends AI-driven sentiment analysis, fundamental data scoring, and analyst recommendation trends to produce clear buy/hold/sell signals.  
 
@@ -28,7 +28,7 @@ This codebase has been reviewed and optimized with AI assistance for readability
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Real-Time News Sentiment Analysis**  
   Fetches headlines and summaries from Finnhub, then uses an Ollama NLP model to assign a numeric sentiment score.
@@ -47,7 +47,7 @@ This codebase has been reviewed and optimized with AI assistance for readability
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x  
 - **Core Libraries:**  
@@ -62,7 +62,7 @@ This codebase has been reviewed and optimized with AI assistance for readability
 
 ---
 
-## 📥 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚡ Usage
+## Usage
 
 1. Obtain a free API key from [Finnhub.io](https://finnhub.io).  
 2. Set your Finnhub API key in the script.  
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 ```text
 🧮 Sentiment Average:   0.65
@@ -113,13 +113,13 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 💡 Contributing
+## Contributing
 
 Pull requests are welcome!  
 
