@@ -6,15 +6,15 @@ AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
 ## 📋 Table of Contents
 
-- [Overview](#📌-overview)  
-- [Features](#🚀-features)  
-- [Tech Stack](#🛠-tech-stack)  
-- [Installation](#📥-installation)  
-- [Usage](#⚡-usage)  
-- [Example Output](#📈-example-output)  
-- [Ideal Use Cases](#🔮-ideal-use-cases)  
-- [License](#📜-license)  
-- [Contributing](#💡-contributing)  
+- [Overview](##📌-overview)  
+- [Features](##🚀-features)  
+- [Tech Stack](##🛠-tech-stack)  
+- [Installation](##📥-installation)  
+- [Usage](##⚡-usage)  
+- [Example Output](##📈-example-output)  
+- [Ideal Use Cases](##🔮-ideal-use-cases)  
+- [License](##📜-license)  
+- [Contributing](##💡-contributing)  
 
 ---
 
@@ -129,4 +129,3 @@ Before submitting, please:
 2. Fork the repo and create a feature branch.  
 3. Write clear commit messages and include tests or examples when applicable.  
 4. Submit a pull request once your work is ready for review.  
-```
