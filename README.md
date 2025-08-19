@@ -22,7 +22,9 @@ AI-Powered Stock Market Sentiment & Fundamentals Analysis Toolkit
 
 FinAIc is a side project born out of curiosity for markets, data, and machine learning. It blends AI-powered sentiment analysis, basic fundamental scoring, and analyst rating trends to spit out rough buy/hold/sell signals — not gospel, just fun.
 It pulls in real-time news, key financial ratios, and aggregated Wall Street opinions to surface patterns and spark ideas. Whether you're a trader, a quant, or just someone who enjoys tinkering with financial data, this toolkit is meant to be explored, not blindly followed.
+
 ⚠️ Disclaimer: This is not financial advice. It’s a hobby project. If the code says “Buy,” don’t take it personally — or literally.
+
 The codebase has been cleaned up and documented with AI assistance to make it easier to read, tweak, and build on. Fork it, break it, improve it — all welcome.
 
 ---
