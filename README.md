@@ -81,12 +81,7 @@ pip install -r requirements.txt
 1. Obtain a free API key from [Finnhub.io](https://finnhub.io).  
 2. Set your Finnhub API key in the script.  
 3. Ensure Ollama is installed and your chosen model (e.g., `gemma3:27b`) is running.  
-4. Run the analysis:
-
-   ```bash
-   python finsight_ai.py
-   ```
-
+4. Run the analysis.
 5. Check your output files in the project folder:  
    - `analysis_result_<symbol>_<enddate>.txt`  
    - `full_analysis_<enddate>.xlsx`
