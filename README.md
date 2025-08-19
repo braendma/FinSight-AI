@@ -1,6 +1,6 @@
 # FinAIc - Splintered information. Sharp decisions. 
 
-AI-powered stock insight ioolkit. Assembling a mosaic of market signals.
+AI-powered stock insight toolkit. Assembling a mosaic of market signals.
 
 ---
 
