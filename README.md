@@ -58,7 +58,7 @@ The codebase has been cleaned up and documented with AI assistance to make it ea
   - `re` — text cleaning & preprocessing  
 
 - **APIs:**  
-  - Finnhub.io for news and fundamentals  
+  - Finnhub.io for news and fundamentals (but you can modify it for every other API)  
   - Ollama for local or server-based LLM-driven sentiment  
 
 ---
