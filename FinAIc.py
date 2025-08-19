@@ -41,7 +41,7 @@ def analyze(text: str, symbol: str) -> float:
     try:
         return float(clean(response.message.content))
     except ValueError:
-        print(f"⚠️ Ungültiger Wert: {response.message.content}")
+        print(f"⚠️ Invalid value: {response.message.content}")
         return 0.0
 
 # Evaluate Fundamentals
@@ -73,7 +73,7 @@ def evaluate_fundamentals(data: dict) -> float:
         weight_total += 1
 
     except (KeyError, IndexError, TypeError):
-        print("⚠️ Fehler beim Auswerten der Fundamentaldaten.")
+        print("⚠️ Errors in the evaluation of fundamental data.")
 
     return round(score / weight_total, 2) if weight_total > 0 else 0.0
 
@@ -103,7 +103,7 @@ def evaluate_recommendation_trends(data: list[dict]) -> float:
 # Combined Recommendation
 def recommend_combined(sentiment_scores_filtered: list[float], fundamental_score: float, analyst_score: float) -> str:
     if not sentiment_scores_filtered:
-        return "⚠️ Keine gültigen Sentiment-Werte vorhanden."
+        return "⚠️ No valid sentiment values available."
 
     sentiment_avg = sum(sentiment_scores_filtered) / len(sentiment_scores_filtered)
     combined_score = (sentiment_avg * 0.5) + (fundamental_score * 0.3) + (analyst_score * 0.2)
