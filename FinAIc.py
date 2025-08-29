@@ -252,5 +252,51 @@ if __name__ == "__main__":
     SINGLE_SYMBOL = ['MSFT']
     
     DIV_STRAT = ['MAIN', 'O', 'ABBV', 'OHI', 'VZ']
+
+    SP500 = [
+    "AAPL", "MSFT", "AMZN", "NVDA", "GOOGL", "GOOG", "META", "BRK.B", "TSLA", "UNH",
+    "LLY", "JPM", "XOM", "JNJ", "V", "PG", "AVGO", "MA", "HD", "CVX",
+    "MRK", "ABBV", "PEP", "COST", "ADBE", "KO", "CSCO", "WMT", "TMO", "MCD",
+    "PFE", "CRM", "BAC", "ACN", "CMCSA", "LIN", "NFLX", "ABT", "ORCL", "DHR",
+    "AMD", "WFC", "DIS", "TXN", "PM", "VZ", "INTU", "COP", "CAT", "AMGN",
+    "NEE", "INTC", "UNP", "LOW", "IBM", "BMY", "SPGI", "RTX", "HON", "BA",
+    "UPS", "GE", "QCOM", "AMAT", "NKE", "PLD", "GS", "ISRG", "MS", "NOW",
+    "ELV", "LMT", "MDT", "SYK", "SCHW", "TJX", "BKNG", "DE", "ADI", "BLK",
+    "MMC", "GILD", "MO", "AXP", "REGN", "VRTX", "C", "ZTS", "CB", "PGR",
+    "T", "BSX", "CI", "SLB", "CL", "SO", "BDX", "PNC", "ADP", "MU",
+    "USB", "EQIX", "SHW", "EOG", "DUK", "ITW", "CSX", "NSC", "FDX", "HUM",
+    "GM", "GD", "EMR", "WM", "ETN", "FCX", "APD", "MPC", "PSA", "ROP",
+    "COF", "AON", "MET", "MAR", "ORLY", "KDP", "AEP", "MCK", "FIS", "TRV",
+    "KHC", "MNST", "AFL", "ALL", "HCA", "MSI", "OXY", "CME", "SBUX", "SPG",
+    "KLAC", "CTAS", "AZO", "D", "PSX", "SNPS", "NOC", "NXPI", "CMG", "ADM",
+    "IDXX", "PAYX", "PH", "PRU", "HLT", "TGT", "DVN", "AIG", "WELL", "PCAR",
+    "BK", "ROST", "MSCI", "YUM", "CDNS", "FTNT", "CTVA", "LRCX", "F", "HPQ",
+    "GIS", "KR", "VLO", "ODFL", "KMB", "WMB", "PEG", "ED", "XEL", "PPG",
+    "MTD", "WEC", "DLR", "HSY", "FAST", "RSG", "EXC", "VRSK", "AVB", "MLM",
+    "LEN", "ECL", "PCG", "ANET", "WBD", "KEYS", "HES", "DHI", "CBRE", "FITB",
+    "AMP", "STZ", "OTIS", "ROK", "CTSH", "VICI", "AWK", "CNC", "ES", "GWW",
+    "DOW", "HIG", "RCL", "ZBH", "ALB", "CHTR", "FANG", "MTB", "LUV", "SWK",
+    "NUE", "VTR", "BLL", "EFX", "TSCO", "IR", "PPL", "FE", "CMS", "HPE",
+    "ABC", "CARR", "TDG", "EXR", "PAYC", "STE", "KMI", "ON", "TT", "ACGL",
+    "GLW", "RJF", "MKC", "CLX", "HBAN", "ETR", "ATO", "INVH", "CINF", "NVR",
+    "LKQ", "ULTA", "MOH", "KEY", "DRI", "VMC", "NTAP", "SYY", "OMC", "AEE",
+    "PFG", "IP", "HWM", "BR", "BALL", "NDAQ", "LYB", "TRGP", "BF.B", "CAG",
+    "CF", "MAS", "PKG", "GEN", "WRB", "JKHY", "LDOS", "HOLX", "TXT", "APA",
+    "MRO", "FDS", "TER", "CE", "CHD", "WAB", "IEX", "PHM", "TECH", "HAS",
+    "NRG", "CNP", "SWKS", "K", "A", "GPC", "BBY", "ZBRA", "RVTY", "JCI",
+    "NTRS", "CRL", "HRL", "PODD", "INCY", "BAX", "STT", "AKAM", "EPAM", "EMN",
+    "COO", "GRMN", "NWSA", "NWS", "FMC", "MGM", "DVA", "BEN", "SEE", "TPR",
+    "DXCM", "LW", "ALGN", "RE", "RHI", "IPG", "AIZ", "L", "PARA", "FOX",
+    "FOXA", "IVZ", "VTRS", "HST", "REG", "UHS", "PNR", "AOS", "CPB", "HSIC",
+    "NCLH", "AES", "ETSY", "FFIV", "WY", "JNPR", "CPT", "DISH", "FRT", "PNW",
+    "MOS", "ALLE", "OGN", "XRAY", "APA", "BIO", "BXP", "MTCH", "MKTX", "ROL",
+    "MHK", "GL", "DAY", "CHRW", "WHR", "LKQ", "NDSN", "VFC", "BBWI", "TPX"
+    ]
     
-    main_multi(NASDAQ_LIST, START_DATE, END_DATE)
+    ANALYZE_LIST_NAME = input("Enter list name (NASDAQ_LIST/DOW_LIST/SP500) to analyze: ")
+    ANALYZE_LIST = globals().get(ANALYZE_LIST_NAME)
+    
+    if ANALYZE_LIST is None:
+        print("Ungültiger Listenname!")
+    else:
+        main_multi(ANALYZE_LIST, START_DATE, END_DATE)
